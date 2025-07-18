@@ -19,3 +19,12 @@
 - [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)
 
 =========**//Reference Links**====================================================
+
+
+=========**Indian Carbon Market**====================================================
+
+<img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/5999db00-2a3c-430a-8bfa-71e399e34ca4" />
+
+
+
+=========**Indian Carbon Market**====================================================
