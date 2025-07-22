@@ -1,22 +1,33 @@
 
-## Important Data Points:
+## Content
+
+- Important Data Points
+- Reference Links
+- Indian Carbon Markets
+- News & Stories
+- Institutes
+- Terminologies
+
+## =============================================================
+
+===**Important Data Points**==========================================================================
 
 - Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 against the baseline of 2010 globally
 
 - 9 sectors identified in India for achieving the Carbon goals in the initial stages
 
-======================================================================================================
+===**//Important Data Points**==========================================================================
 
 
 =========**Reference Links**====================================================
 
-- [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024)
+- [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
 
-- [The industry standard for onchain climate data](https://chain.link/use-cases/climate-markets)
+- [The industry standard for onchain climate data](https://chain.link/use-cases/climate-markets)  (Chainlink resource)
 
-- [Scaling Climate Finance With Blockchain Technology](https://blog.chain.link/climate-finance/#post-title)
+- [Scaling Climate Finance With Blockchain Technology](https://blog.chain.link/climate-finance/#post-title)   (Chainlink resource) 
 
-- [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)
+- [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)  (Indiatimes.com)
 
 =========**//Reference Links**====================================================
 
@@ -41,8 +52,24 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 =========**Institutes**====================================================
 
 - CII-GBC (Confederation of Indian Industries - Green Business Center)
-
 - IGSD (Institute for Governance and Sustainabile Development)
 
 =========**//Institutes**====================================================
+
+=========**Terminologies**====================================================
+
+- RFP (Radiative Forcing Protocol)
+
+- Emission Accounting based on RFP :
+ 
+  **BE (baseline emissions) - PE (project emissions) = ER (emission reductions)** ==>> Amount of ERs ==>> Amount of Credits
+  
+- CBAM (Carbon Border Adjustment Mechanism): Is a system to confirm that a price has been paid for the embedded carbon emissions generated in the production of certain goods imported into the EU. This ensures that: the carbon price of imports is equivalent to the carbon price of domestic production; the EU's climate objectives are not undermined.
+
+- ITMOs (Internationally Transferred Mitigation Outcomes)
+
+- 
+
+=========**//Terminologies**====================================================
+
 
