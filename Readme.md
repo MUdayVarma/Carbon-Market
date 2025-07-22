@@ -68,7 +68,18 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 
 - ITMOs (Internationally Transferred Mitigation Outcomes)
 
-- 
+- ETS (Emission Trading Systems)
+
+- **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
+
+- CCS (Carbon Capture and Storage)
+
+- DAC (Direct Air Capture)
+
+- CCU (Carbon Capture and Utilization)
+
+- CCUS (Carbon Capture, Utilization, and Storage)
+
 
 =========**//Terminologies**====================================================
 
