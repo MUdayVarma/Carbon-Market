@@ -38,3 +38,11 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 
 =========**//News & Stories**====================================================
 
+=========**Institutes**====================================================
+
+- CII-GBC (Confederation of Indian Industries - Green Business Center)
+
+- IGSD (Institute for Governance and Sustainabile Development)
+
+=========**//Institutes**====================================================
+
