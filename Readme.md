@@ -10,13 +10,17 @@
 
 ## =============================================================
 
-===**Important Data Points**==========================================================================
+===**Important Data Points**=============================================================
 
-- Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 against the baseline of 2010 globally
+- Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 (for India it is 2070 ) against the baseline of 2010 globally
 
-- 9 sectors identified in India for achieving the Carbon goals in the initial stages
+- 9 sectors identified in India for achieving the Carbon goals in the initial stages (Energy, Industries, Agriculture, Transport, Waste Handling and Disposal, Forestry, Construction, Solvent Use, CCUS & Others)
 
-===**//Important Data Points**==========================================================================
+- Bureou of Energy Efficiency (anchoring 'Indian Carbon Market') aims to finalize and baseline or in other words find a roadmap for Compliance mechanisms, Voluntary mechanisms, integration of indian market with Global markets (i.e. EU, UK, etc.), efficiently do the registry work, how to efficiently regulate the market, how to control the price volatality in the market
+
+- Need to understand EU-ETS and California-ETS and how Indian markets can catch-up with them
+
+===**//Important Data Points**===========================================================
 
 
 =========**Reference Links**====================================================
