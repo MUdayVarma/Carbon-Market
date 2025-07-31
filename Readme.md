@@ -51,6 +51,11 @@
 
 The Uttar Pradesh (UP) government is making advance partial payments to farmers for carbon credits earned through tree plantation. This initiative, the first of its kind in India, aims to incentivize farmers to participate in carbon reduction efforts and enhance rural income. Farmers receive payments based on the amount of carbon dioxide their trees absorb, with one carbon credit (equivalent to one metric tonne of CO2 stored) **valued at $6 every five years**. The UP government is collaborating with organizations like The Energy and Resources Institute (TERI) to verify and validate farmer claims. 
 
+[URECA}
+
+30 million tCO2 reduction in Mogolia using Carbon Credit Tokenization
+
+
 =========**//News & Stories**====================================================
 
 =========**Institutes**====================================================
