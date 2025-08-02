@@ -7,6 +7,7 @@
 - News & Stories
 - Institutes
 - Terminologies
+- Rough Notes (Messages/Comms./..)
 
 ## =============================================================
 
@@ -21,7 +22,6 @@
 - Need to understand EU-ETS and California-ETS and how Indian markets can catch-up with them
 
 ===**//Important Data Points**===========================================================
-
 
 =========**Reference Links**====================================================
 
@@ -46,6 +46,15 @@
 
 
 =========**News & Stories**====================================================
+
+[Climate Action Data(CAD) Trust V2.0 Data Model](https://climateactiondata.org/cad-trust-announces-data-model-v2-0-now-open-for-consultation/)
+
+[Singapore, 28May2025] The Climate Action Data Trust (CAD Trust) announced the release of its upgraded data model v2.0. The v2.0 data model will support greater cross-registry interoperability and set a basis for more diverse use cases while enhancing the performance, scalability, and ease of maintenance of the CAD Trust infrastructure. 
+
+v2.0 aligns with the information requirements for Article 6 reporting using the Agreed Electronic Format (AEF), as a best practice encouraged in COP29. As the international carbon markets mature and Article 6 advances, the data model may evolve further – for example, to align with the final infrastructure for the Paris Agreement Crediting Mechanism and the Centralized Accounting and Reporting Platform (CARP) or other global accounting systems.
+
+------------------------------------------------
+
 
 [UP Pays for Carbon Credits to Farmers in Advance](https://timesofindia.indiatimes.com/city/lucknow/up-pays-for-carbon-credits-to-farmers-in-advance-to-motivate-them/articleshow/122785212.cms)
 
@@ -75,21 +84,78 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
   
 - CBAM (Carbon Border Adjustment Mechanism): Is a system to confirm that a price has been paid for the embedded carbon emissions generated in the production of certain goods imported into the EU. This ensures that: the carbon price of imports is equivalent to the carbon price of domestic production; the EU's climate objectives are not undermined.
 
-- ITMOs (Internationally Transferred Mitigation Outcomes)
-
 - ETS (Emission Trading Systems)
 
 - **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
 
-- CCS (Carbon Capture and Storage)
+- CCS: Carbon Capture and Storage
 
-- DAC (Direct Air Capture)
+- DAC: Direct Air Capture
 
-- CCU (Carbon Capture and Utilization)
+- CCU: Carbon Capture and Utilization
 
-- CCUS (Carbon Capture, Utilization, and Storage)
+- CCUS: Carbon Capture, Utilization, and Storage
+
+ACR: American Carbon Registry
+
+AEF: Agreed Electronic Format
+
+CAR: Climate Action Reserve
+
+CARP: Centralized Accounting and Reporting Platform
+
+CDM: Clean Development Mechanism
+
+CO2e: Carbon dioxide equivalent 
+
+COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
+
+GHG: Greenhouse Gas emissions 
+
+ICROA: International Carbon Reduction and Offset Alliance 
+
+IETA: International Emissions Trading Association
+
+ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
+
+PMI: Partnership for Market Implementation 
+
+VCM: Voluntary Carbon Market
+
+VCS: Verified Carbon Standard (by Verra)
+
+UNDP: UN Development Programme
 
 
 =========**//Terminologies**====================================================
 
 
+
+=========**ROUGH Notes**====================================================
+
+ ---Message to Rainbow 'Partners - Contact Us' link on 02Aug'25---
+
+**Subject:** Proposal for Collaboration on Blockchain-Based Carbon Credit Tokenization
+
+Dear Rainbow Registry Team,
+
+My name is **Uday Varma Mantena**, and I represent **Mellifera Hash Blocks Private Limited**, a technology start-up based in **Hyderabad, India**. We specialize in providing **blockchain-based solutions for the carbon market**, with a focus on **tokenization of carbon credits** to enhance transparency, traceability, and trust across the value chain.
+
+We are currently building a comprehensive platform that supports the **end-to-end lifecycle of carbon credits** — from measurement and verification to issuance, **marketplace integration**, trading, and retirement. Our goal is to empower registries like yours with digital infrastructure that aligns with evolving compliance standards and unlocks access to global carbon markets, especially across India and the Global South.
+
+We would be keen to explore a collaboration with Rainbow to support your registry operations through secure, tamper-proof, and interoperable blockchain solutions.
+
+I would be glad to connect further to discuss how we can bring added value to your work through innovation and shared goals in climate action.
+
+Looking forward to hearing from you.
+
+Warm regards,
+**Uday Varma Mantena**
+Founder & Director
+**Mellifera Hash Blocks Private Limited**
+Hyderabad, India
+📧 \[Your Email] | 📞 \[Your Phone Number]
+
+---
+
+=========**//ROUGH Notes**====================================================
