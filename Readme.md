@@ -9,9 +9,9 @@
 - Terminologies
 - Rough Notes (Messages/Comms./..)
 
-## =============================================================
+==================================================
 
-===**Important Data Points**=============================================================
+# =====Important Data Points======================
 
 - Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 (for India it is 2070 ) against the baseline of 2010 globally
 
@@ -21,9 +21,9 @@
 
 - Need to understand EU-ETS and California-ETS and how Indian markets can catch-up with them
 
-===**//Important Data Points**===========================================================
+===**//Important Data Points**================
 
-=========**Reference Links**====================================================
+# =====Reference Links============================
 
 - [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
 
@@ -33,21 +33,26 @@
 
 - [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)  (Indiatimes.com)
 
-=========**//Reference Links**====================================================
+=========**//Reference Links**=====================
 
 
-=========**Indian Carbon Market**====================================================
+# =====Indian Carbon Market========================
 
 <img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/5999db00-2a3c-430a-8bfa-71e399e34ca4" />
 
 
 
-=========****//Indian Carbon Market****====================================================
+=========****//Indian Carbon Market****============
 
 
-=========**News & Stories**====================================================
+# =====News & Stories============================
 
-[Climate Action Data(CAD) Trust V2.0 Data Model](https://climateactiondata.org/cad-trust-announces-data-model-v2-0-now-open-for-consultation/)
+[20250722 - Why the World’s Largest Asset Manager 'Black Rock' Went All-In on CCUS](https://carboncredits.com/blackrock-and-enis-1-2-billion-deal-to-push-carbon-capture/)
+
+By buying into Eni’s CCUS unit, BlackRock signals its belief that carbon capture will play a major role in meeting global net-zero targets. It also shows that carbon management is no longer just a policy tool—it’s becoming a commercial opportunity for investors.
+
+
+[20250528 - Climate Action Data(CAD) Trust V2.0 Data Model](https://climateactiondata.org/cad-trust-announces-data-model-v2-0-now-open-for-consultation/)
 
 [Singapore, 28May2025] The Climate Action Data Trust (CAD Trust) announced the release of its upgraded data model v2.0. The v2.0 data model will support greater cross-registry interoperability and set a basis for more diverse use cases while enhancing the performance, scalability, and ease of maintenance of the CAD Trust infrastructure. 
 
@@ -56,7 +61,7 @@ v2.0 aligns with the information requirements for Article 6 reporting using the 
 ------------------------------------------------
 
 
-[UP Pays for Carbon Credits to Farmers in Advance](https://timesofindia.indiatimes.com/city/lucknow/up-pays-for-carbon-credits-to-farmers-in-advance-to-motivate-them/articleshow/122785212.cms)
+[20250719 - UP Pays for Carbon Credits to Farmers in Advance](https://timesofindia.indiatimes.com/city/lucknow/up-pays-for-carbon-credits-to-farmers-in-advance-to-motivate-them/articleshow/122785212.cms)
 
 The Uttar Pradesh (UP) government is making advance partial payments to farmers for carbon credits earned through tree plantation. This initiative, the first of its kind in India, aims to incentivize farmers to participate in carbon reduction efforts and enhance rural income. Farmers receive payments based on the amount of carbon dioxide their trees absorb, with one carbon credit (equivalent to one metric tonne of CO2 stored) **valued at $6 every five years**. The UP government is collaborating with organizations like The Energy and Resources Institute (TERI) to verify and validate farmer claims. 
 
@@ -65,16 +70,16 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 30 million tCO2 reduction in Mogolia using Carbon Credit Tokenization
 
 
-=========**//News & Stories**====================================================
+=========**//News & Stories**===========================
 
-=========**Institutes**====================================================
+# =====Institutes======================================
 
 - CII-GBC (Confederation of Indian Industries - Green Business Center)
 - IGSD (Institute for Governance and Sustainabile Development)
 
-=========**//Institutes**====================================================
+=========**//Institutes**===============================
 
-=========**Terminologies**====================================================
+# =====Terminologies=====================================
 
 - RFP (Radiative Forcing Protocol)
 
@@ -127,11 +132,11 @@ VCS: Verified Carbon Standard (by Verra)
 UNDP: UN Development Programme
 
 
-=========**//Terminologies**====================================================
+=========**//Terminologies**=======================
 
 
 
-=========**ROUGH Notes**====================================================
+# =====ROUGH Notes================================
 
  ---Message to Rainbow 'Partners - Contact Us' link on 02Aug'25---
 
