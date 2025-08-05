@@ -11,7 +11,7 @@
 
 ==================================================
 
-# =====Important Data Points======================
+# =====Important Data Points ======================
 
 - Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 (for India it is 2070 ) against the baseline of 2010 globally
 
@@ -23,7 +23,7 @@
 
 ===**//Important Data Points**================
 
-# =====Reference Links============================
+# =====Reference Links ============================
 
 - [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
 
@@ -33,10 +33,12 @@
 
 - [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)  (Indiatimes.com)
 
+- [CAD Trust - SERVICE LAYER Data User Connectivity Deck](https://climateactiondata.org/wp-content/uploads/2023/12/CAD-Trust-Service-Layer-Connectivity-Manual-C.pdf)
+  
 =========**//Reference Links**=====================
 
 
-# =====Indian Carbon Market========================
+# =====Indian Carbon Market ========================
 
 <img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/5999db00-2a3c-430a-8bfa-71e399e34ca4" />
 
@@ -45,7 +47,7 @@
 =========****//Indian Carbon Market****============
 
 
-# =====News & Stories============================
+# =====News & Stories ============================
 
 [20250722 - Why the World’s Largest Asset Manager 'Black Rock' Went All-In on CCUS](https://carboncredits.com/blackrock-and-enis-1-2-billion-deal-to-push-carbon-capture/)
 
