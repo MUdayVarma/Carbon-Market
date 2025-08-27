@@ -1,17 +1,17 @@
 
 ## Content
 
-- Important Data Points
-- Reference Links
-- Indian Carbon Markets
-- News & Stories
-- Institutes
-- Terminologies
-- Rough Notes (Messages/Comms./..)
+- [Important Data Points](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#important-data-points-) 
+- [Reference Links](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#reference-links-)
+- [News & Stories](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#news--stories-)
+- [Institutes](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#institutes)
+- [Terminologies](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#terminologies )
+- [Indian Carbon Markets](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#indian-carbon-market-)
+- [Rough Notes (Messages/Comms./..)](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#rough-notes) 
 
 ==================================================
 
-# =====Important Data Points ======================
+# =====Important Data Points ===
 
 - Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 (for India it is 2070 ) against the baseline of 2010 globally
 
@@ -23,7 +23,7 @@
 
 ===**//Important Data Points**================
 
-# =====Reference Links ============================
+# =====Reference Links ===
 
 - [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
 
@@ -38,16 +38,17 @@
 =========**//Reference Links**=====================
 
 
-# =====Indian Carbon Market ========================
+# =====News & Stories === 
 
-<img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/5999db00-2a3c-430a-8bfa-71e399e34ca4" />
+[20250822 - Google Reveals the Environmental Cost of Gemini AI Query](https://carboncredits.com/google-reveals-the-environmental-cost-of-gemini-ai-query/)
 
+From Queries to Carbon: Measuring AI’s True Cost. Artificial intelligence systems require powerful data centers to process user prompts. These data centers run on large amounts of electricity and water for cooling. To provide more transparency, Google calculated the average environmental cost of a single Gemini AI text query.
 
+The company reported that one prompt:
 
-=========****//Indian Carbon Market****============
-
-
-# =====News & Stories ============================
+- Uses about 0.24 watt-hours of electricity (similar to watching TV for less than nine seconds)
+- Produces about 0.03 grams of CO₂ equivalent (CO₂e)
+- Consumes about 0.26 milliliters of water (roughly five drops)
 
 [20250722 - Why the World’s Largest Asset Manager 'Black Rock' Went All-In on CCUS](https://carboncredits.com/blackrock-and-enis-1-2-billion-deal-to-push-carbon-capture/)
 
@@ -62,7 +63,6 @@ v2.0 aligns with the information requirements for Article 6 reporting using the 
 
 ------------------------------------------------
 
-
 [20250719 - UP Pays for Carbon Credits to Farmers in Advance](https://timesofindia.indiatimes.com/city/lucknow/up-pays-for-carbon-credits-to-farmers-in-advance-to-motivate-them/articleshow/122785212.cms)
 
 The Uttar Pradesh (UP) government is making advance partial payments to farmers for carbon credits earned through tree plantation. This initiative, the first of its kind in India, aims to incentivize farmers to participate in carbon reduction efforts and enhance rural income. Farmers receive payments based on the amount of carbon dioxide their trees absorb, with one carbon credit (equivalent to one metric tonne of CO2 stored) **valued at $6 every five years**. The UP government is collaborating with organizations like The Energy and Resources Institute (TERI) to verify and validate farmer claims. 
@@ -74,14 +74,14 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 
 =========**//News & Stories**===========================
 
-# =====Institutes======================================
+# =====Institutes===
 
 - CII-GBC (Confederation of Indian Industries - Green Business Center)
 - IGSD (Institute for Governance and Sustainabile Development)
 
 =========**//Institutes**===============================
 
-# =====Terminologies=====================================
+# =====Terminologies=== 
 
 - RFP (Radiative Forcing Protocol)
 
@@ -137,8 +137,16 @@ UNDP: UN Development Programme
 =========**//Terminologies**=======================
 
 
+# =====Indian Carbon Market ===
 
-# =====ROUGH Notes================================
+<img width="1233" height="698" alt="image" src="https://github.com/user-attachments/assets/5999db00-2a3c-430a-8bfa-71e399e34ca4" />
+
+
+
+=========****//Indian Carbon Market****============
+
+
+# =====ROUGH Notes === 
 
  ---Message to Rainbow 'Partners - Contact Us' link on 02Aug'25---
 
