@@ -40,6 +40,12 @@
 
 # =====News & Stories === 
 
+[20250828 - Blockchain tokenization prevents 394M tons of CO₂ in $32B ESG effort](https://cointelegraph.com/news/arx-veritas-blubird-tokenize-32b-esg-assets-co2-prevention)
+
+The record ESG-aligned tokenization efforts will prevent emissions that are about 105 times the yearly CO₂ emissions of Iceland. 
+
+Wealth tokenization platform Arx Veritas and tokenization infrastructure firm Blubird are using blockchain technology to prevent nearly 400 million tons of CO₂ emissions, marking a record for the digital asset tokenization industry.
+
 [20250822 - Google Reveals the Environmental Cost of Gemini AI Query](https://carboncredits.com/google-reveals-the-environmental-cost-of-gemini-ai-query/)
 
 From Queries to Carbon: Measuring AI’s True Cost. Artificial intelligence systems require powerful data centers to process user prompts. These data centers run on large amounts of electricity and water for cooling. To provide more transparency, Google calculated the average environmental cost of a single Gemini AI text query.
