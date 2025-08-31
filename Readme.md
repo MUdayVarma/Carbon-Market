@@ -40,6 +40,12 @@
 
 # =====News & Stories === 
 
+[20250831 - Coffee and Carbon Credits || Renewable Energy Investment Reaches Record High as China Operates World’s Biggest Solar Farm](https://mailchi.mp/carboncredits.com/renewable-energy-investment-reaches-record-high-as-china-operates-worlds-biggest-solar-farm?e=2eb8b6d642)
+
+Global renewable energy investment reached record highs in 2024–25, driven by drops in solar and wind costs and policy support, despite a U.S. slowdown. China leads with mega solar projects, like a farm the size of Chicago, helping cut emissions. However, developing regions still lag in funding. The transition’s pace depends on policies and smart investment to meet climate goals as demand grows. 
+
+Coffee and Carbon Credits: Shade-grown coffee is cultivated under tree canopies, unlike sun-grown coffee. These trees act as valuable carbon sinks, cooling soil, protecting biodiversity, and capturing 70–80 metric tons of carbon per hectare - comparable to tropical forests. However, carbon markets tend to undervalue the climate contributions of these agroforestry systems because measuring carbon in mixed-use farms is complex and standardized accounting is lacking.
+
 [20250828 - Blockchain tokenization prevents 394M tons of CO₂ in $32B ESG effort](https://cointelegraph.com/news/arx-veritas-blubird-tokenize-32b-esg-assets-co2-prevention)
 
 The record ESG-aligned tokenization efforts will prevent emissions that are about 105 times the yearly CO₂ emissions of Iceland. 
