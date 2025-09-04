@@ -40,6 +40,11 @@
 
 # =====News & Stories === 
 
+[20250901 - $467 billion needed until 2030 to decarbonise four of India’s emission-heavy sectors: Study](https://indianexpress.com/article/india/467-billion-needed-until-2030-to-decarbonise-four-of-indias-emission-heavy-sectors-study-10222984/lite/#amp_tf=From%20%251%24s&aoh=17569912257867&csi=0&referrer=https%3A%2F%2Fwww.google.com) 
+
+The study is the first-of-its-kind bottoms-up sector-specific assessment of requirements of climate finance in India. The study, by Janak Raj and Rakesh Mohan of the Centre for Social and Economic Progress (CSEP), is the first-of-its-kind bottoms-up sector-specific assessment of requirements of climate finance in India. The authors studied the needs of power, steel, cement and road transport sectors, which together account for over half of India’s CO2 emissions. 
+
+
 [20250831 - Coffee and Carbon Credits || Renewable Energy Investment Reaches Record High as China Operates World’s Biggest Solar Farm](https://mailchi.mp/carboncredits.com/renewable-energy-investment-reaches-record-high-as-china-operates-worlds-biggest-solar-farm?e=2eb8b6d642)
 
 Global renewable energy investment reached record highs in 2024–25, driven by drops in solar and wind costs and policy support, despite a U.S. slowdown. China leads with mega solar projects, like a farm the size of Chicago, helping cut emissions. However, developing regions still lag in funding. The transition’s pace depends on policies and smart investment to meet climate goals as demand grows. 
