@@ -40,6 +40,12 @@
 
 # =====News & Stories === 
 
+[20250904 - Netflix Signs 15-Year Carbon Credit Deal to Help Landowners Transition Fields into Forests](https://www.esgtoday.com/netflix-signs-15-year-carbon-credit-deal-to-help-landowners-transition-fields-into-forests/) 
+
+The American Forest Foundation (AFF) announced that it has signed a 15-year contract with Netflix, with the entertainment giant committing to purchase verified carbon credits produced through AFF’s Afforestation, Reforestation, and Revegetation (ARR) carbon project, aimed at transitioning underused fields in the U.S. South into forests.
+
+Chartered in 1981, the American Forest Foundation is a national conservation organization, working with family forest owners to deliver conservation impact through programs aimed at implementing forest management practices to care for the health and productivity of their woodlands.
+
 [20250901 - $467 billion needed until 2030 to decarbonise four of India’s emission-heavy sectors: Study](https://indianexpress.com/article/india/467-billion-needed-until-2030-to-decarbonise-four-of-indias-emission-heavy-sectors-study-10222984/lite/#amp_tf=From%20%251%24s&aoh=17569912257867&csi=0&referrer=https%3A%2F%2Fwww.google.com) 
 
 The study is the first-of-its-kind bottoms-up sector-specific assessment of requirements of climate finance in India. The study, by Janak Raj and Rakesh Mohan of the Centre for Social and Economic Progress (CSEP), is the first-of-its-kind bottoms-up sector-specific assessment of requirements of climate finance in India. The authors studied the needs of power, steel, cement and road transport sectors, which together account for over half of India’s CO2 emissions. 
