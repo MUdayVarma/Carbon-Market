@@ -40,6 +40,10 @@
 
 # =====News & Stories === 
 
+[20250901 - ChatGPT, Gemini, and DeepSeek Are on an AI Race – But at What Climate Cost? A Comparison](https://carboncredits.com/chatgpt-gemini-and-deepseek-are-on-an-ai-race-but-at-what-climate-cost-a-comparison/) 
+
+A new report from venture firm a16z highlights a shifting race in generative artificial intelligence (AI). Google’s Gemini, China’s DeepSeek, and even Grok, backed by Elon Musk, are gaining ground on OpenAI’s ChatGPT. But as these AI rivals advance, there’s an urgent question: how green are their growing footprints?
+
 [20250904 - Netflix Signs 15-Year Carbon Credit Deal to Help Landowners Transition Fields into Forests](https://www.esgtoday.com/netflix-signs-15-year-carbon-credit-deal-to-help-landowners-transition-fields-into-forests/) 
 
 The American Forest Foundation (AFF) announced that it has signed a 15-year contract with Netflix, with the entertainment giant committing to purchase verified carbon credits produced through AFF’s Afforestation, Reforestation, and Revegetation (ARR) carbon project, aimed at transitioning underused fields in the U.S. South into forests.
