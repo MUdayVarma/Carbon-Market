@@ -25,6 +25,8 @@
 
 # =====Reference Links ===
 
+- [Environmental Data Transparency: Setting a New Benchmark for Sustainability](https://www.esgtoday.com/guest-post-environmental-data-transparency-setting-a-new-benchmark-for-sustainability/) (ESG Today)
+  
 - [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
 
 - [The industry standard for onchain climate data](https://chain.link/use-cases/climate-markets)  (Chainlink resource)
