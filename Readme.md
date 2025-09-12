@@ -42,6 +42,12 @@
 
 # =====News & Stories === 
 
+[20250911 - EU to Provide €17.5 Billion Financing for Energy Efficiency, Decarbonization Projects for SMEs](https://www.esgtoday.com/eu-to-provide-e17-5-billion-to-finance-energy-efficiency-decarbonization-projects-for-smes/)
+
+The European Investment Bank (EIB) announced today that it will provide €17.5 billion in funding over the next three years, supported by the European Commission, for the energy efficiency for small and medium-sized enterprises (SMEs) initiative.
+
+The EIB said that more than 350,000 businesses will receive support through the initiative, with the program backing energy efficiency and decarbonization steps taken by SMEs, using a combination of existing and new financial products, including debt and equity instruments.
+
 [20250901 - ChatGPT, Gemini, and DeepSeek Are on an AI Race – But at What Climate Cost? A Comparison](https://carboncredits.com/chatgpt-gemini-and-deepseek-are-on-an-ai-race-but-at-what-climate-cost-a-comparison/) 
 
 A new report from venture firm a16z highlights a shifting race in generative artificial intelligence (AI). Google’s Gemini, China’s DeepSeek, and even Grok, backed by Elon Musk, are gaining ground on OpenAI’s ChatGPT. But as these AI rivals advance, there’s an urgent question: how green are their growing footprints?
