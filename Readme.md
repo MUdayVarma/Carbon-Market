@@ -42,6 +42,8 @@
 
 # =====News & Stories === 
 
+[20250918 - Half of Corporate Buyers Plan to Drop Unsustainable Suppliers: Bain Survey](https://www.esgtoday.com/half-of-corporate-buyers-spending-more-with-sustainable-suppliers-and-plan-to-drop-unsustainable-ones-bain-survey/) 
+
 [20250911 - EU to Provide €17.5 Billion Financing for Energy Efficiency, Decarbonization Projects for SMEs](https://www.esgtoday.com/eu-to-provide-e17-5-billion-to-finance-energy-efficiency-decarbonization-projects-for-smes/)
 
 The European Investment Bank (EIB) announced today that it will provide €17.5 billion in funding over the next three years, supported by the European Commission, for the energy efficiency for small and medium-sized enterprises (SMEs) initiative.
