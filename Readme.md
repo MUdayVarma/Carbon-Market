@@ -25,6 +25,10 @@
 
 # =====Reference Links ===
 
+- [The Ultimate Guide to Understanding Carbon Credits](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/)
+
+- [Top 5 Carbon ETFs for Sustainable Investing in 2025](https://carboncredits.com/top-5-carbon-etfs-for-sustainable-investing-in-2025/)
+
 - [Environmental Data Transparency: Setting a New Benchmark for Sustainability](https://www.esgtoday.com/guest-post-environmental-data-transparency-setting-a-new-benchmark-for-sustainability/) (ESG Today)
   
 - [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
