@@ -46,6 +46,8 @@
 
 # =====News & Stories === 
 
+[20250306 - UAE’s ESG Transformation: Regulations, Climate Action & Sustainable Finance](https://www.orennow.com/blog/uae-esg-transformation-regulations-climate-action-sustainable-finance) 
+
 [20250918 - Half of Corporate Buyers Plan to Drop Unsustainable Suppliers: Bain Survey](https://www.esgtoday.com/half-of-corporate-buyers-spending-more-with-sustainable-suppliers-and-plan-to-drop-unsustainable-ones-bain-survey/) 
 
 [20250911 - EU to Provide €17.5 Billion Financing for Energy Efficiency, Decarbonization Projects for SMEs](https://www.esgtoday.com/eu-to-provide-e17-5-billion-to-finance-energy-efficiency-decarbonization-projects-for-smes/)
