@@ -160,6 +160,8 @@ CO2e: Carbon dioxide equivalent
 
 COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
 
+CSRD: Corporate Sustainability Reporting Directive
+
 GHG: Greenhouse Gas emissions 
 
 ICROA: International Carbon Reduction and Offset Alliance 
@@ -168,7 +170,11 @@ IETA: International Emissions Trading Association
 
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
+ISSB: International Sustainability Standards Board
+
 PMI: Partnership for Market Implementation 
+
+SASB: Sustainability Accounting Standards Board
 
 VCM: Voluntary Carbon Market
 
