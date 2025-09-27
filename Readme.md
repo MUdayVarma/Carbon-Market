@@ -150,6 +150,8 @@ ACR: American Carbon Registry
 
 AEF: Agreed Electronic Format
 
+BRSR: Business Responsibility and Sustainability Reporting
+
 CAR: Climate Action Reserve
 
 CARP: Centralized Accounting and Reporting Platform
@@ -164,17 +166,23 @@ CSRD: Corporate Sustainability Reporting Directive
 
 GHG: Greenhouse Gas emissions 
 
+GRI: Global Reporting Initiative
+
 ICROA: International Carbon Reduction and Offset Alliance 
 
 IETA: International Emissions Trading Association
 
-ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
+IRO: Important Issues / Impact, Risks, Opportunities
 
 ISSB: International Sustainability Standards Board
+
+ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
 PMI: Partnership for Market Implementation 
 
 SASB: Sustainability Accounting Standards Board
+
+TCFD: Task Force on Climate-related Financial Disclosure
 
 VCM: Voluntary Carbon Market
 
