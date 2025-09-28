@@ -162,11 +162,19 @@ CO2e: Carbon dioxide equivalent
 
 COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
 
+CRFD: Climate-Related Financial Disclosure
+
 CSRD: Corporate Sustainability Reporting Directive
+
+EUDR: 
+
+FDIC: 
 
 GHG: Greenhouse Gas emissions 
 
 GRI: Global Reporting Initiative
+
+IASB: International Accounting Standards Board
 
 ICROA: International Carbon Reduction and Offset Alliance 
 
@@ -178,9 +186,13 @@ ISSB: International Sustainability Standards Board
 
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
+PCAF: Partnership for Carbon Accounting Financials
+
 PMI: Partnership for Market Implementation 
 
 SASB: Sustainability Accounting Standards Board
+
+SFDR: 
 
 TCFD: Task Force on Climate-related Financial Disclosure
 
