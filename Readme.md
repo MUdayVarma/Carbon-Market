@@ -44,6 +44,8 @@ Critical learning from the report is that companies can reduce half their suppli
 
 # =====Reference Links ===
 
+- [Quantum Technology for Sustainability](https://www.weforum.org/stories/2025/04/10-startups-quantum-sustainability-challenge/) - [Standard and methodologies grounded in science and advanced technology to enhance transparency, integrity, traceability, and quality in the carbon credits market.](https://www.planetainature.org/)
+  
 - [The Ultimate Guide to Understanding Carbon Credits](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/)
 
 - [Top 5 Carbon ETFs for Sustainable Investing in 2025](https://carboncredits.com/top-5-carbon-etfs-for-sustainable-investing-in-2025/)
