@@ -65,6 +65,8 @@ Critical learning from the report is that companies can reduce half their suppli
 
 # =====News & Stories === 
 
+[20251001 - Automation Can Accelerate the Voluntary Carbon Market. Not Everyone Is Ready to Adopt. - The Wall Street Journal](https://www.wsj.com/articles/automation-can-accelerate-the-voluntary-carbon-market-not-everyone-is-ready-to-adopt-6767fea7) 
+
 [20250306 - UAE’s ESG Transformation: Regulations, Climate Action & Sustainable Finance](https://www.orennow.com/blog/uae-esg-transformation-regulations-climate-action-sustainable-finance) 
 
 [20250918 - Half of Corporate Buyers Plan to Drop Unsustainable Suppliers: Bain Survey](https://www.esgtoday.com/half-of-corporate-buyers-spending-more-with-sustainable-suppliers-and-plan-to-drop-unsustainable-ones-bain-survey/) 
