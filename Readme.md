@@ -12,26 +12,8 @@
 ==================================================
 
 # =====Important Data Points ===
-[
-//Source:  EcoVadis and Boston Consulting Group (BCG) - Carbon Action Report 2025]
-
-Scope 3 emissions are a critical part of financial business stability ​
-​
-The new research reveals a stark reality: supply chain emissions are 21x larger than direct emissions, yet they remain the biggest blind spot in corporate climate strategy.​
-​
-Critical points of the report: ​
-• By 2030, corporates could face >$500B in annual liabilities from unmanaged Scope 3 emissions ​
-• Only 1 in 4 companies measure supply chain emissions ​
-• Just 4 in 100 have science-based Scope 3 targets​
-
-Critical learning from the report is that companies can reduce half their supplier emissions cost-effectively, with potential 3-6x ROI through early action. One-third of emissions can be abated at less than $12 per metric ton.​ What key actions can be taken? ​
-→Engage suppliers (9x more likely to hit targets)​
-→Measure emissions comprehensively​
-→Appoint climate-aligned leadership​
-→Develop a transition plan​
-→Allocate dedicated budget​
-]
-​
+- Carbon Action Report 2025 (//Source: EcoVadis and Boston Consulting Group (BCG)) Scope 3 emissions are a critical part of financial business stability. The new research reveals a stark reality: supply chain emissions are 21x larger than direct emissions, yet they remain the biggest blind spot in corporate climate strategy.​ Critical points of the report: ​(a) By 2030, corporates could face >$500B in annual liabilities from unmanaged Scope 3 emissions ​(b) Only 1 in 4 companies measure supply chain emissions ​(c) Just 4 in 100 have science-based Scope 3 targets​. Critical learning from the report is that companies can reduce half their supplier emissions cost-effectively, with potential 3-6x ROI through early action. One-third of emissions can be abated at less than $12 per metric ton.​ What key actions can be taken? ​(i) Engage suppliers (9x more likely to hit targets)​ (ii) Measure emissions comprehensively​ (iii) Appoint climate-aligned leadership​ (iv) Develop a transition plan​ (v) Allocate dedicated budget​
+  ​
 - Goal for Carbon emissions is to reduce by 40 to 50% by 2030 and to Net Zero by 2050 (for India it is 2070 ) against the baseline of 2010 globally
 
 - 9 sectors identified in India for achieving the Carbon goals in the initial stages (Energy, Industries, Agriculture, Transport, Waste Handling and Disposal, Forestry, Construction, Solvent Use, CCUS & Others)
