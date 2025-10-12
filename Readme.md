@@ -26,6 +26,8 @@
 
 # =====Reference Links ===
 
+- [What are Blue Carbon credits](https://carboncredits.com/the-importance-of-blue-carbon-credits)
+  
 - [Quantum Technology for Sustainability](https://www.weforum.org/stories/2025/04/10-startups-quantum-sustainability-challenge/) - [Standard and methodologies grounded in science and advanced technology to enhance transparency, integrity, traceability, and quality in the carbon credits market.](https://www.planetainature.org/)
   
 - [The Ultimate Guide to Understanding Carbon Credits](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/)
