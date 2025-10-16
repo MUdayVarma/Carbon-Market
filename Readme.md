@@ -177,6 +177,8 @@ EUDR:
 
 FDIC: 
 
+GCD: Green Claims Directive
+
 GHG: Greenhouse Gas emissions 
 
 GRI: Global Reporting Initiative
