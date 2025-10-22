@@ -51,6 +51,8 @@
 
 # =====News & Stories === 
 
+[20251022 - UN Endorses First Article 6.4 Carbon Credit Methodology, Unlocking Billions for Global Carbon Markets](https://carboncredits.com/un-endorses-first-article-6-4-carbon-credit-methodology-unlocking-billions-for-global-carbon-markets/) 
+
 [20251001 - Automation Can Accelerate the Voluntary Carbon Market. Not Everyone Is Ready to Adopt. - The Wall Street Journal](https://www.wsj.com/articles/automation-can-accelerate-the-voluntary-carbon-market-not-everyone-is-ready-to-adopt-6767fea7) 
 
 [20250306 - UAE’s ESG Transformation: Regulations, Climate Action & Sustainable Finance](https://www.orennow.com/blog/uae-esg-transformation-regulations-climate-action-sustainable-finance) 
