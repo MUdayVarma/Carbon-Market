@@ -2,8 +2,8 @@
 ## Content
 
 - [Important Data Points](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#important-data-points-) 
-- [Reference Links](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#reference-links-)
 - [News & Stories](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#news--stories-)
+- [Reference Links](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#reference-links-)
 - [Institutes](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#institutes)
 - [Terminologies](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#terminologies )
 - [Indian Carbon Markets](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#indian-carbon-market-)
@@ -26,32 +26,11 @@
 
 ===**//Important Data Points**================
 
-# =====Reference Links ===
-
-- [What are Blue Carbon credits](https://carboncredits.com/the-importance-of-blue-carbon-credits)
-  
-- [Quantum Technology for Sustainability](https://www.weforum.org/stories/2025/04/10-startups-quantum-sustainability-challenge/) - [Standard and methodologies grounded in science and advanced technology to enhance transparency, integrity, traceability, and quality in the carbon credits market.](https://www.planetainature.org/)
-  
-- [The Ultimate Guide to Understanding Carbon Credits](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/)
-
-- [Top 5 Carbon ETFs for Sustainable Investing in 2025](https://carboncredits.com/top-5-carbon-etfs-for-sustainable-investing-in-2025/)
-
-- [Environmental Data Transparency: Setting a New Benchmark for Sustainability](https://www.esgtoday.com/guest-post-environmental-data-transparency-setting-a-new-benchmark-for-sustainability/) (ESG Today)
-  
-- [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
-
-- [The industry standard for onchain climate data](https://chain.link/use-cases/climate-markets)  (Chainlink resource)
-
-- [Scaling Climate Finance With Blockchain Technology](https://blog.chain.link/climate-finance/#post-title)   (Chainlink resource) 
-
-- [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)  (Indiatimes.com)
-
-- [CAD Trust - SERVICE LAYER Data User Connectivity Deck](https://climateactiondata.org/wp-content/uploads/2023/12/CAD-Trust-Service-Layer-Connectivity-Manual-C.pdf)
-  
-=========**//Reference Links**=====================
-
-
 # =====News & Stories === 
+
+[20251030 - Price & Supply adjustment architecture for India's CCTS](https://www.thehindu.com/news/cities/mumbai/india-must-embed-stability-tools-in-the-carbon-market-to-avoid-costly-reforms-say-experts/article70220592.ece) 
+
+<img width="808" height="388" alt="image" src="https://github.com/user-attachments/assets/eb9a2f31-3552-4c10-a828-8e7c6211ac4e" />
 
 [20251022 - UN Endorses First Article 6.4 Carbon Credit Methodology, Unlocking Billions for Global Carbon Markets](https://carboncredits.com/un-endorses-first-article-6-4-carbon-credit-methodology-unlocking-billions-for-global-carbon-markets/) 
 
@@ -128,6 +107,31 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 
 =========**//News & Stories**===========================
 
+# =====Reference Links ===
+
+- [What are Blue Carbon credits](https://carboncredits.com/the-importance-of-blue-carbon-credits)
+  
+- [Quantum Technology for Sustainability](https://www.weforum.org/stories/2025/04/10-startups-quantum-sustainability-challenge/) - [Standard and methodologies grounded in science and advanced technology to enhance transparency, integrity, traceability, and quality in the carbon credits market.](https://www.planetainature.org/)
+  
+- [The Ultimate Guide to Understanding Carbon Credits](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/)
+
+- [Top 5 Carbon ETFs for Sustainable Investing in 2025](https://carboncredits.com/top-5-carbon-etfs-for-sustainable-investing-in-2025/)
+
+- [Environmental Data Transparency: Setting a New Benchmark for Sustainability](https://www.esgtoday.com/guest-post-environmental-data-transparency-setting-a-new-benchmark-for-sustainability/) (ESG Today)
+  
+- [Tokenized RWA Bootcamp](https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024) (Chainlink resource)
+
+- [The industry standard for onchain climate data](https://chain.link/use-cases/climate-markets)  (Chainlink resource)
+
+- [Scaling Climate Finance With Blockchain Technology](https://blog.chain.link/climate-finance/#post-title)   (Chainlink resource) 
+
+- [Domestic Carbon credit prices may rise with new regulations](https://energy.economictimes.indiatimes.com/news/renewable/domestic-carbon-credit-prices-may-rise-with-new-regulations-report/120365392)  (Indiatimes.com)
+
+- [CAD Trust - SERVICE LAYER Data User Connectivity Deck](https://climateactiondata.org/wp-content/uploads/2023/12/CAD-Trust-Service-Layer-Connectivity-Manual-C.pdf)
+  
+=========**//Reference Links**=====================
+
+
 # =====Institutes===
 
 - CII-GBC (Confederation of Indian Industries - Green Business Center)
@@ -190,6 +194,8 @@ GRI: Global Reporting Initiative
 IASB: International Accounting Standards Board
 
 ICROA: International Carbon Reduction and Offset Alliance 
+
+IEEFA: Institute for Energy Economics and Financial Analysis
 
 IETA: International Emissions Trading Association
 
