@@ -181,6 +181,8 @@ CRFD: Climate-Related Financial Disclosure
 
 CSRD: Corporate Sustainability Reporting Directive
 
+EPR: Extended Producer Responsibility
+
 EUDR: 
 
 FDIC: 
