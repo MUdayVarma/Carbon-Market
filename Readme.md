@@ -238,7 +238,7 @@ UNDP: UN Development Programme
 
  ---Post by Dr. Manuj in Linkedin comments-----
 
- If India’s carbon market embeds strong reduction-first principles, supported by high-quality MRV and clear guardrails for offsets, we won’t just avoid these pitfalls, we’ll set a new benchmark for climate credibility and competitiveness.
+ If India’s carbon market embeds strong reduction-first principles, supported by high-quality MRV and clear guardrails for offsets, we won’t just avoid these pitfalls, we’ll set a new benchmark for climate credibility and competitiveness. (Globally, we’ve seen how premature reliance on offsets, without exhausting reduction pathways, can erode trust and even invite allegations of greenwashing. The controversies around large-scale offsetting claims such as those linked to the Qatar FIFA World Cup show exactly why transparency and integrity matter.)
 
  ---------------
  
