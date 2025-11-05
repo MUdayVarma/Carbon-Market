@@ -236,6 +236,13 @@ UNDP: UN Development Programme
 
 # =====ROUGH Notes === 
 
+ ---Post by Dr. Manuj in Linkedin comments-----
+
+ If India’s carbon market embeds strong reduction-first principles, supported by high-quality MRV and clear guardrails for offsets, we won’t just avoid these pitfalls, we’ll set a new benchmark for climate credibility and competitiveness.
+
+ ---------------
+ 
+ 
  ---Message to Rainbow 'Partners - Contact Us' link on 02Aug'25---
 
 **Subject:** Proposal for Collaboration on Blockchain-Based Carbon Credit Tokenization
