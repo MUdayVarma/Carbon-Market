@@ -207,6 +207,10 @@ ISSB: International Sustainability Standards Board
 
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
+NGRBC: National Guidelines on Responsible Business Conduct
+
+NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
+
 PCAF: Partnership for Carbon Accounting Financials
 
 PMI: Partnership for Market Implementation 
