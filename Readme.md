@@ -183,9 +183,9 @@ CSRD: Corporate Sustainability Reporting Directive
 
 EPR: Extended Producer Responsibility
 
-EUDR: 
+EUDR: European Union Deforestation-free Regulation
 
-FDIC: 
+FDIC: Federal Deposit Insurance Corporation
 
 GCD: Green Claims Directive
 
@@ -194,6 +194,8 @@ GHG: Greenhouse Gas emissions
 GRI: Global Reporting Initiative
 
 IASB: International Accounting Standards Board
+
+ICMA: International Capital Market Association
 
 ICROA: International Carbon Reduction and Offset Alliance 
 
@@ -217,7 +219,7 @@ PMI: Partnership for Market Implementation
 
 SASB: Sustainability Accounting Standards Board
 
-SFDR: 
+SFDR: Sustainable Finance Disclosure Regulation
 
 TCFD: Task Force on Climate-related Financial Disclosure
 
