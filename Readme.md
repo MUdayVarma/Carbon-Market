@@ -203,6 +203,8 @@ IEEFA: Institute for Energy Economics and Financial Analysis
 
 IETA: International Emissions Trading Association
 
+IGCC: Investor Group on Climate Change
+
 IRO: Important Issues / Impact, Risks, Opportunities
 
 ISSB: International Sustainability Standards Board
