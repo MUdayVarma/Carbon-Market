@@ -183,6 +183,8 @@ CSRD: Corporate Sustainability Reporting Directive
 
 EPR: Extended Producer Responsibility
 
+ESRS: European Sustainability Reporting Standards (ESRS are comprehensive and mandatory for large companies under the CSRD framework)
+
 EUDR: European Union Deforestation-free Regulation
 
 FDIC: Federal Deposit Insurance Corporation
@@ -228,6 +230,8 @@ TCFD: Task Force on Climate-related Financial Disclosure
 VCM: Voluntary Carbon Market
 
 VCS: Verified Carbon Standard (by Verra)
+
+VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and modular for micro and small to medium-sized enterprises)
 
 UNDP: UN Development Programme
 
