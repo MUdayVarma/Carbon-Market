@@ -1,15 +1,120 @@
 
 ## Content
 
+- [Terminologies](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#terminologies )
 - [Important Data Points](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#important-data-points-) 
 - [News & Stories](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#news--stories-)
 - [Reference Links](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#reference-links-)
 - [Institutes](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#institutes)
-- [Terminologies](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#terminologies )
 - [Indian Carbon Markets](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#indian-carbon-market-)
 - [Rough Notes (Messages/Comms./..)](https://github.com/MUdayVarma/Carbon-Market?tab=readme-ov-file#rough-notes) 
 
 ==================================================
+
+# =====Terminologies=== 
+
+- RFP (Radiative Forcing Protocol)
+
+- Emission Accounting based on RFP :
+ 
+  **BE (baseline emissions) - PE (project emissions) = ER (emission reductions)** ==>> Amount of ERs ==>> Amount of Credits
+  
+- CBAM (Carbon Border Adjustment Mechanism): Is a system to confirm that a price has been paid for the embedded carbon emissions generated in the production of certain goods imported into the EU. This ensures that: the carbon price of imports is equivalent to the carbon price of domestic production; the EU's climate objectives are not undermined.
+
+- ETS (Emission Trading Systems)
+
+- **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
+
+- CCS: Carbon Capture and Storage
+
+- DAC: Direct Air Capture
+
+- CCU: Carbon Capture and Utilization
+
+- CCUS: Carbon Capture, Utilization, and Storage
+
+ACR: American Carbon Registry
+
+AEF: Agreed Electronic Format
+
+AFOLU: Agriculture-Forests-Other Land Use (Funded by CPI)
+
+BRSR: Business Responsibility and Sustainability Reporting
+
+CAR: Climate Action Reserve
+
+CARP: Centralized Accounting and Reporting Platform
+
+CDM: Clean Development Mechanism
+
+CO2e: Carbon dioxide equivalent 
+
+COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
+
+CPI: Climate Policy Initiative
+
+CRFD: Climate-Related Financial Disclosure
+
+CSRD: Corporate Sustainability Reporting Directive
+
+EPR: Extended Producer Responsibility
+
+ESRS: European Sustainability Reporting Standards (ESRS are comprehensive and mandatory for large companies under the CSRD framework)
+
+EUDR: European Union Deforestation-free Regulation
+
+FDIC: Federal Deposit Insurance Corporation
+
+GCD: Green Claims Directive
+
+GHG: Greenhouse Gas emissions 
+
+GRI: Global Reporting Initiative
+
+IASB: International Accounting Standards Board
+
+ICMA: International Capital Market Association
+
+ICROA: International Carbon Reduction and Offset Alliance 
+
+IEEFA: Institute for Energy Economics and Financial Analysis
+
+IETA: International Emissions Trading Association
+
+IGCC: Investor Group on Climate Change
+
+IRO: Important Issues / Impact, Risks, Opportunities
+
+ISSB: International Sustainability Standards Board
+
+ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
+
+NCQG: New Collective Quantified Goal
+
+NGRBC: National Guidelines on Responsible Business Conduct
+
+NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
+
+PCAF: Partnership for Carbon Accounting Financials
+
+PMI: Partnership for Market Implementation 
+
+SASB: Sustainability Accounting Standards Board
+
+SFDR: Sustainable Finance Disclosure Regulation
+
+TCFD: Task Force on Climate-related Financial Disclosure
+
+VCM: Voluntary Carbon Market
+
+VCS: Verified Carbon Standard (by Verra)
+
+VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and modular for micro and small to medium-sized enterprises)
+
+UNDP: UN Development Programme
+
+
+=========**//Terminologies**=======================
 
 # =====Important Data Points ===
 - Carbon Action Report 2025 ([EcoVadis and Boston Consulting Group (BCG)](https://www.linkedin.com/posts/ecovadis_ecovadis-climateweeknyc-sustainability-activity-7376271696456146944-eHvW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAM7MR8B6ti4B-RzSQ31Eh5zda9zwH63vTM)): Scope 3 emissions are a critical part of financial business stability. The new research reveals a stark reality: supply chain emissions are 21x larger than direct emissions, yet they remain the biggest blind spot in corporate climate strategy.​ Critical points of the report: ​(a) By 2030, corporates could face >$500B in annual liabilities from unmanaged Scope 3 emissions ​(b) Only 1 in 4 companies measure supply chain emissions ​(c) Just 4 in 100 have science-based Scope 3 targets​. Critical learning from the report is that companies can reduce half their supplier emissions cost-effectively, with potential 3-6x ROI through early action. One-third of emissions can be abated at less than $12 per metric ton.​ What key actions can be taken? ​(i) Engage suppliers (9x more likely to hit targets)​ (ii) Measure emissions comprehensively​ (iii) Appoint climate-aligned leadership​ (iv) Develop a transition plan​ (v) Allocate dedicated budget​
@@ -138,105 +243,6 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 - IGSD (Institute for Governance and Sustainabile Development)
 
 =========**//Institutes**===============================
-
-# =====Terminologies=== 
-
-- RFP (Radiative Forcing Protocol)
-
-- Emission Accounting based on RFP :
- 
-  **BE (baseline emissions) - PE (project emissions) = ER (emission reductions)** ==>> Amount of ERs ==>> Amount of Credits
-  
-- CBAM (Carbon Border Adjustment Mechanism): Is a system to confirm that a price has been paid for the embedded carbon emissions generated in the production of certain goods imported into the EU. This ensures that: the carbon price of imports is equivalent to the carbon price of domestic production; the EU's climate objectives are not undermined.
-
-- ETS (Emission Trading Systems)
-
-- **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
-
-- CCS: Carbon Capture and Storage
-
-- DAC: Direct Air Capture
-
-- CCU: Carbon Capture and Utilization
-
-- CCUS: Carbon Capture, Utilization, and Storage
-
-ACR: American Carbon Registry
-
-AEF: Agreed Electronic Format
-
-BRSR: Business Responsibility and Sustainability Reporting
-
-CAR: Climate Action Reserve
-
-CARP: Centralized Accounting and Reporting Platform
-
-CDM: Clean Development Mechanism
-
-CO2e: Carbon dioxide equivalent 
-
-COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
-
-CRFD: Climate-Related Financial Disclosure
-
-CSRD: Corporate Sustainability Reporting Directive
-
-EPR: Extended Producer Responsibility
-
-ESRS: European Sustainability Reporting Standards (ESRS are comprehensive and mandatory for large companies under the CSRD framework)
-
-EUDR: European Union Deforestation-free Regulation
-
-FDIC: Federal Deposit Insurance Corporation
-
-GCD: Green Claims Directive
-
-GHG: Greenhouse Gas emissions 
-
-GRI: Global Reporting Initiative
-
-IASB: International Accounting Standards Board
-
-ICMA: International Capital Market Association
-
-ICROA: International Carbon Reduction and Offset Alliance 
-
-IEEFA: Institute for Energy Economics and Financial Analysis
-
-IETA: International Emissions Trading Association
-
-IGCC: Investor Group on Climate Change
-
-IRO: Important Issues / Impact, Risks, Opportunities
-
-ISSB: International Sustainability Standards Board
-
-ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
-
-NGRBC: National Guidelines on Responsible Business Conduct
-
-NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
-
-PCAF: Partnership for Carbon Accounting Financials
-
-PMI: Partnership for Market Implementation 
-
-SASB: Sustainability Accounting Standards Board
-
-SFDR: Sustainable Finance Disclosure Regulation
-
-TCFD: Task Force on Climate-related Financial Disclosure
-
-VCM: Voluntary Carbon Market
-
-VCS: Verified Carbon Standard (by Verra)
-
-VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and modular for micro and small to medium-sized enterprises)
-
-UNDP: UN Development Programme
-
-
-=========**//Terminologies**=======================
 
 
 # =====Indian Carbon Market ===
