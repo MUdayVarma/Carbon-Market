@@ -89,11 +89,17 @@ ISSB: International Sustainability Standards Board
 
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
+NCCS: National Climate Change Secretariat
+
 NCQG: New Collective Quantified Goal
+
+NDC: Nationally Dtermined COntributions
 
 NGRBC: National Guidelines on Responsible Business Conduct
 
 NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
+
+OMGE: Overall Mitigation of Global Emissions 
 
 PCAF: Partnership for Carbon Accounting Financials
 
@@ -102,6 +108,8 @@ PMI: Partnership for Market Implementation
 SASB: Sustainability Accounting Standards Board
 
 SFDR: Sustainable Finance Disclosure Regulation
+
+SOP: Shares of Proceed (e.g. the management of carbon credits earmarked for shares of proceeds (SOP))
 
 TCFD: Task Force on Climate-related Financial Disclosure
 
