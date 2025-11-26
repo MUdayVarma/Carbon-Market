@@ -71,6 +71,8 @@ GHG: Greenhouse Gas emissions
 
 GRI: Global Reporting Initiative
 
+GWP: Global Warming Potential
+
 IASB: International Accounting Standards Board
 
 ICMA: International Capital Market Association
@@ -83,6 +85,8 @@ IETA: International Emissions Trading Association
 
 IGCC: Investor Group on Climate Change
 
+IPCC: Inter-Governmental Panel on Climate Change
+
 IRO: Important Issues / Impact, Risks, Opportunities
 
 ISSB: International Sustainability Standards Board
@@ -94,6 +98,8 @@ NCCS: National Climate Change Secretariat
 NCQG: New Collective Quantified Goal
 
 NDC: Nationally Dtermined COntributions
+
+NGFS: Network for Greening the Financial Systems
 
 NGRBC: National Guidelines on Responsible Business Conduct
 
