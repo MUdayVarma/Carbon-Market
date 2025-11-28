@@ -57,6 +57,8 @@ CRFD: Climate-Related Financial Disclosure
 
 CSRD: Corporate Sustainability Reporting Directive
 
+CSDDD: Corporate Sustainability Due Diligence Directive
+
 EPR: Extended Producer Responsibility
 
 ESRS: European Sustainability Reporting Standards (ESRS are comprehensive and mandatory for large companies under the CSRD framework)
@@ -79,6 +81,8 @@ ICMA: International Capital Market Association
 
 ICROA: International Carbon Reduction and Offset Alliance 
 
+IFC: International Financial Corporation (for ESG Performance Standards)
+
 IEEFA: Institute for Energy Economics and Financial Analysis
 
 IETA: International Emissions Trading Association
@@ -88,6 +92,10 @@ IGCC: Investor Group on Climate Change
 IPCC: Inter-Governmental Panel on Climate Change
 
 IRO: Important Issues / Impact, Risks, Opportunities
+
+ISO 14001 (Environment)
+ISO 45001 (Safety)
+ISO 20400 (Sustainable Procurement)
 
 ISSB: International Sustainability Standards Board
 
@@ -104,6 +112,8 @@ NGFS: Network for Greening the Financial Systems
 NGRBC: National Guidelines on Responsible Business Conduct
 
 NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
+
+OECD: Organisation for Economic Co-operation and Development (Guidelines for Multinational Enterprises)
 
 OMGE: Overall Mitigation of Global Emissions 
 
