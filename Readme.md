@@ -13,25 +13,13 @@
 
 # =====Terminologies=== 
 
-- RFP (Radiative Forcing Protocol)
-
 - Emission Accounting based on RFP :
  
   **BE (baseline emissions) - PE (project emissions) = ER (emission reductions)** ==>> Amount of ERs ==>> Amount of Credits
   
 - CBAM (Carbon Border Adjustment Mechanism): Is a system to confirm that a price has been paid for the embedded carbon emissions generated in the production of certain goods imported into the EU. This ensures that: the carbon price of imports is equivalent to the carbon price of domestic production; the EU's climate objectives are not undermined.
 
-- ETS (Emission Trading Systems)
-
 - **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
-
-- CCS: Carbon Capture and Storage
-
-- DAC: Direct Air Capture
-
-- CCU: Carbon Capture and Utilization
-
-- CCUS: Carbon Capture, Utilization, and Storage
 
 ACR: American Carbon Registry
 
@@ -45,7 +33,15 @@ CAR: Climate Action Reserve
 
 CARP: Centralized Accounting and Reporting Platform
 
+CCS: Carbon Capture and Storage
+
+CCU: Carbon Capture and Utilization
+
+CCUS: Carbon Capture, Utilization, and Storage
+
 CDM: Clean Development Mechanism
+
+CDSB: Climate Disclosure Standards Board
 
 CO2e: Carbon dioxide equivalent 
 
@@ -59,9 +55,27 @@ CSRD: Corporate Sustainability Reporting Directive
 
 CSDDD: Corporate Sustainability Due Diligence Directive
 
+D&T: Disclosure and Transparency
+
+DAC: Direct Air Capture
+
+DNSH: Do No Significant Harm
+
+EPA: Equator Principles Association
+
 EPR: Extended Producer Responsibility
 
+EFRAG: Eurpean Financial Reporting Advisory Group
+
+EHS: Environment, Health, and Safety
+
+ESG: Environment, Social, and Governance
+
 ESRS: European Sustainability Reporting Standards (ESRS are comprehensive and mandatory for large companies under the CSRD framework)
+
+ETS: Emission Trading Systems
+
+EU: European Union
 
 EUDR: European Union Deforestation-free Regulation
 
@@ -73,6 +87,8 @@ GHG: Greenhouse Gas emissions
 
 GRI: Global Reporting Initiative
 
+GSSB: Global Sustainability Standards Board
+
 GWP: Global Warming Potential
 
 IASB: International Accounting Standards Board
@@ -83,11 +99,15 @@ ICROA: International Carbon Reduction and Offset Alliance
 
 IFC: International Financial Corporation (for ESG Performance Standards)
 
+IFRS: International Financial Reporting Standards
+
 IEEFA: Institute for Energy Economics and Financial Analysis
 
 IETA: International Emissions Trading Association
 
 IGCC: Investor Group on Climate Change
+
+IIRC: International Integrated Reporting Council
 
 IPCC: Inter-Governmental Panel on Climate Change
 
@@ -107,6 +127,8 @@ NCQG: New Collective Quantified Goal
 
 NDC: Nationally Dtermined COntributions
 
+NFRD: Non-Financial Reporting Directive
+
 NGFS: Network for Greening the Financial Systems
 
 NGRBC: National Guidelines on Responsible Business Conduct
@@ -121,13 +143,25 @@ PCAF: Partnership for Carbon Accounting Financials
 
 PMI: Partnership for Market Implementation 
 
+PRI: Principles of Responsible Investing
+
+PS: Performance Standards
+
+RAG: Red, Amber, Green
+
+RFP: Radiative Forcing Protocol
+
 SASB: Sustainability Accounting Standards Board
 
 SFDR: Sustainable Finance Disclosure Regulation
 
+SMEs: Small and Medium-sizee Enterprises
+
 SOP: Shares of Proceed (e.g. the management of carbon credits earmarked for shares of proceeds (SOP))
 
 TCFD: Task Force on Climate-related Financial Disclosure
+
+ToR: Terms of Reference
 
 VCM: Voluntary Carbon Market
 
@@ -137,6 +171,9 @@ VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and m
 
 UNDP: UN Development Programme
 
+US SEC: US Securities and Exchange Commission Climate-Related Disclosures
+
+WBG: World Bank Group
 
 =========**//Terminologies**=======================
 
