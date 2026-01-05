@@ -178,6 +178,9 @@ WBG: World Bank Group
 =========**//Terminologies**=======================
 
 # =====Important Data Points ===
+
+- [20260105 - Tools for taxonomies. Momentum for markets. Climate Bonds: a year in review](https://www.linkedin.com/pulse/tools-taxonomies-momentum-markets-climate-bonds-year-review-3pw5f/)
+  
 - Carbon Action Report 2025 ([EcoVadis and Boston Consulting Group (BCG)](https://www.linkedin.com/posts/ecovadis_ecovadis-climateweeknyc-sustainability-activity-7376271696456146944-eHvW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAM7MR8B6ti4B-RzSQ31Eh5zda9zwH63vTM)): Scope 3 emissions are a critical part of financial business stability. The new research reveals a stark reality: supply chain emissions are 21x larger than direct emissions, yet they remain the biggest blind spot in corporate climate strategy.​ Critical points of the report: ​(a) By 2030, corporates could face >$500B in annual liabilities from unmanaged Scope 3 emissions ​(b) Only 1 in 4 companies measure supply chain emissions ​(c) Just 4 in 100 have science-based Scope 3 targets​. Critical learning from the report is that companies can reduce half their supplier emissions cost-effectively, with potential 3-6x ROI through early action. One-third of emissions can be abated at less than $12 per metric ton.​ What key actions can be taken? ​(i) Engage suppliers (9x more likely to hit targets)​ (ii) Measure emissions comprehensively​ (iii) Appoint climate-aligned leadership​ (iv) Develop a transition plan​ (v) Allocate dedicated budget​
 
 - [Globally, the chemical sector contributes nearly 2 percent of total CO₂ emissions, and Indian industry clusters reflect similar resource-intensive patterns. Industrial parks generate employment, local development, and exports, but also high levels of energy, water, and raw material sourcing needs.](https://www.indianchemicalnews.com/opinion/sustainability-imperative-making-industrial-growth-greener-and-responsible-27988)
