@@ -43,6 +43,8 @@ CDM: Clean Development Mechanism
 
 CDSB: Climate Disclosure Standards Board
 
+CERs: Certified Emission Reductions (from Clean Development Mechanism i.e. CDM projects.)
+
 CO2e: Carbon dioxide equivalent 
 
 COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
@@ -68,6 +70,8 @@ EPR: Extended Producer Responsibility
 EFRAG: Eurpean Financial Reporting Advisory Group
 
 EHS: Environment, Health, and Safety
+
+ERUs: Emission Reduction Units (Kyoto Protocol units)
 
 ESG: Environment, Social, and Governance
 
@@ -150,6 +154,8 @@ PS: Performance Standards
 RAG: Red, Amber, Green
 
 RFP: Radiative Forcing Protocol
+
+RMUs: Removal Units (Developed countries under the Kyoto Protocol maintains its own registry to hold and manage Kyoto Protocol units like Removal Units (RMUs) and Emission Reduction Units (ERUs))
 
 SASB: Sustainability Accounting Standards Board
 
