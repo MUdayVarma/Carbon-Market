@@ -1,5 +1,9 @@
 
 
+# Financing NBS
+
+- [20260108 - Equitable Earth Raises $14.7 Million to Advance Certification Standard for Nature-Based Carbon Projects](https://www.esgtoday.com/equitable-earth-raises-14-7-million-to-advance-certification-standard-for-nature-based-carbon-projects/) 
+
 
 # ERW (Enhanced Rock Weathering)
 
