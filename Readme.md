@@ -185,6 +185,31 @@ WBG: World Bank Group
 
 # =====Important Data Points ===
 
+## **The Three Pillars of Carbon Pricing: Tax, Trading and Hybrid Models**
+
+Carbon pricing systems around the world are built on three foundational approaches: carbon taxes, emissions trading systems (ETS or cap-and-trade), and hybrid models that combine elements of both.
+
+### Carbon Tax
+
+A carbon tax is a government-imposed fee on the burning of fossil fuels such as coal, oil, and gas. The goal is to put a price on greenhouse gas emissions, encouraging businesses and individuals to reduce their carbon footprint and invest in cleaner energy alternatives. For example, a tax of $50 per metric ton of CO₂ means a company must pay $50 for every ton it releases.
+Carbon Tax is the most widely adopted pricing program in smaller economies or as complimentary policies. 
+
+### Carbon ETS
+
+An ETS is a market-based approach that sets a cap on total emissions and allows companies to buy or sell carbon allowances (often called carbon credits). One credit typically permits the emission of one metric ton of CO₂ or CO₂-equivalent gases. ETS programs are central to national and regional climate strategies.
+
+Carbon ETS covers more total emissions globally than any other carbon pricing system. The EU ETS, China ETS, California system, and South Korea K-ETS alone cover billions of tons of CO₂, including major power and industrial sectors.
+
+### Other / Hybrid
+
+OBPS – Output-Based Pricing System: Canada’s OBPS is a hybrid model used in provinces without their own compliant carbon pricing programs. Large industrial emitters are taxed only on emissions that exceed a performance benchmark (based on output efficiency).
+
+EPS – Emissions Performance Standard: EPS is used in the UK and in some U.S. states. The program sets allowable emissions rate and overperformers may trade credits or pay penalties.
+
+RGGI – Regional Greenhouse Gas Initiative: RGGI is a multistate cap-and-trade program covering the electricity generator sector across 11 U.S. states. States auction carbon allowances to power plants; revenue is reinvested into energy efficiency and renewables.
+
+-------------------------------------------------------------------
+
 - [20260105 - Tools for taxonomies. Momentum for markets. Climate Bonds: a year in review](https://www.linkedin.com/pulse/tools-taxonomies-momentum-markets-climate-bonds-year-review-3pw5f/)
   
 - Carbon Action Report 2025 ([EcoVadis and Boston Consulting Group (BCG)](https://www.linkedin.com/posts/ecovadis_ecovadis-climateweeknyc-sustainability-activity-7376271696456146944-eHvW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAM7MR8B6ti4B-RzSQ31Eh5zda9zwH63vTM)): Scope 3 emissions are a critical part of financial business stability. The new research reveals a stark reality: supply chain emissions are 21x larger than direct emissions, yet they remain the biggest blind spot in corporate climate strategy.​ Critical points of the report: ​(a) By 2030, corporates could face >$500B in annual liabilities from unmanaged Scope 3 emissions ​(b) Only 1 in 4 companies measure supply chain emissions ​(c) Just 4 in 100 have science-based Scope 3 targets​. Critical learning from the report is that companies can reduce half their supplier emissions cost-effectively, with potential 3-6x ROI through early action. One-third of emissions can be abated at less than $12 per metric ton.​ What key actions can be taken? ​(i) Engage suppliers (9x more likely to hit targets)​ (ii) Measure emissions comprehensively​ (iii) Appoint climate-aligned leadership​ (iv) Develop a transition plan​ (v) Allocate dedicated budget​
@@ -202,6 +227,8 @@ WBG: World Bank Group
 ===**//Important Data Points**================
 
 # =====News & Stories === 
+
+[Extreme weather events cost businesses in the U.S. more than $100 billion in the first half of 2025](https://www.climatecentral.org/climate-matters/billion-dollar-disasters-oct-2025)
 
 [20251030 - Price & Supply adjustment architecture for India's CCTS](https://www.thehindu.com/news/cities/mumbai/india-must-embed-stability-tools-in-the-carbon-market-to-avoid-costly-reforms-say-experts/article70220592.ece) 
 
@@ -284,6 +311,8 @@ The Uttar Pradesh (UP) government is making advance partial payments to farmers 
 
 # =====Reference Links ===
 
+- [In 2026, Resilience & Sustainability Are Non-Negotiable](https://www.esgtoday.com/guest-post-in-2026-resilience-sustainability-are-non-negotiable/) - by By: Katie McGinty, Vice President and Chief Sustainability and External Relations Officer at Johnson Controls
+  
 - [What are Blue Carbon credits](https://carboncredits.com/the-importance-of-blue-carbon-credits)
   
 - [Quantum Technology for Sustainability](https://www.weforum.org/stories/2025/04/10-startups-quantum-sustainability-challenge/) - [Standard and methodologies grounded in science and advanced technology to enhance transparency, integrity, traceability, and quality in the carbon credits market.](https://www.planetainature.org/)
