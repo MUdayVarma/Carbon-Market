@@ -33,6 +33,8 @@ CAR: Climate Action Reserve
 
 CARP: Centralized Accounting and Reporting Platform
 
+CCPs: Core Carbon Principles (Are ten science-based guidelines by the Integrity Council for the Voluntary Carbon Market (ICVCM) defining high-quality carbon credits, ensuring they create real, verifiable climate impact, and building integrity in the voluntary carbon market through robust governance, emissions impact, and sustainable development standards. These principles provide a global benchmark, helping buyers identify credible projects that support the 1.5°C climate goal, covering aspects like additionality, permanence, transparency, and community benefits. )
+
 CCS: Carbon Capture and Storage
 
 CCU: Carbon Capture and Utilization
@@ -100,6 +102,8 @@ IASB: International Accounting Standards Board
 ICMA: International Capital Market Association
 
 ICROA: International Carbon Reduction and Offset Alliance 
+
+ICVCM’s: Integrity Council for the Voluntary Carbon Market
 
 IFC: International Financial Corporation (for ESG Performance Standards)
 
