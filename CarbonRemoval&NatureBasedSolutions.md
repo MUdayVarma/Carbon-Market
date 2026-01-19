@@ -15,6 +15,14 @@
   - Founded in 2022, Brazil and Germany-based InPLanet is developing ERW as a scientifically rigorous pathway for durable carbon dioxide removal and regenerative agriculture. The company’s process applies finely crushed silicate rock to tropical soils, accelerating the natural weathering process that permanently sequester CO2, in addition to providing benefits to local farmers including improved soil fertility, increased crop productivity, and reduced need for agricultural inputs. InPlanet operates the largest ERW program in Brazil to date, measured by total farmland treated, at more than 12,000 hectares.
 
 
+# ARR 
+[Afforestation(new forests), Reforestation(restoring old forests), and Revegetation(covering degraded land)]
+
+- [20250219 - Planting Trees for Carbon Credits: Everything You Need to Know](https://carboncredits.com/planting-trees-for-carbon-credits-everything-you-need-to-know/)
+
+
+
+  
 # NBSforIndia Connect
 
   - [20260109 - SPECIAL FEATURE | Designing Cooler Cities Together](https://www.linkedin.com/pulse/special-feature-designing-cooler-cities-together-wri-india-kwypf/)
