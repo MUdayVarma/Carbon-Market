@@ -27,6 +27,13 @@ AEF: Agreed Electronic Format
 
 AFOLU: Agriculture-Forests-Other Land Use (Funded by CPI)
 
+   - ARR: Afforestation, Reforestation, and Revegetation
+   - ALM: Agricultural Land Management (ALM)
+   - IFM: Improved Forest Management (IFM)
+   - REDD: Reduced Emissions from Deforestation and Degradation (REDD)
+   - ACoGS: Avoided Conversion of Grasslands and Shrublands (ACoGS)
+   - WRC: Wetlands Restoration and Conservation (WRC)
+
 BRSR: Business Responsibility and Sustainability Reporting
 
 CAR: Climate Action Reserve
