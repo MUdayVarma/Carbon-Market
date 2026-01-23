@@ -58,6 +58,8 @@ CO2e: Carbon dioxide equivalent
 
 COP29: 29th annual Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC)
 
+CORSIA: Carbon Offsetting and Reduction Scheme for International Aviation
+
 CPI: Climate Policy Initiative
 
 CRFD: Climate-Related Financial Disclosure
