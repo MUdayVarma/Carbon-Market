@@ -4,6 +4,8 @@
 
 [20260121 - responsAbility Raises $460 Million for Asia-Focused Climate Tech Fund](https://www.esgtoday.com/responsability-raises-460-million-for-asia-focused-climate-tech-fund/)
 
+[20260119 - Davos 2026 – The Urgent Imperative of Private Climate Finance: Guest Post](https://www.esgtoday.com/davos-2026-the-urgent-imperative-of-private-climate-finance-guest-post/)
+
 [20260108 - Standard Chartered Issues €1 Billion Green Bond to Finance Clean Energy, Green Building Projects](https://www.esgtoday.com/standard-chartered-issues-e1-billion-green-bond-to-finance-clean-energy-green-building-projects) 
 
 
