@@ -74,6 +74,8 @@ DAC: Direct Air Capture
 
 DNSH: Do No Significant Harm
 
+ECB: European Central Bank
+
 EPA: Equator Principles Association
 
 EPR: Extended Producer Responsibility
@@ -108,6 +110,8 @@ GWP: Global Warming Potential
 
 IASB: International Accounting Standards Board
 
+ICC: International Chamber of Commerce
+
 ICMA: International Capital Market Association
 
 ICROA: International Carbon Reduction and Offset Alliance 
@@ -127,6 +131,8 @@ IGCC: Investor Group on Climate Change
 IIRC: International Integrated Reporting Council
 
 IPCC: Inter-Governmental Panel on Climate Change
+
+IPSASB: International Public Sector Accounting Standards Board
 
 IRO: Important Issues / Impact, Risks, Opportunities
 
@@ -169,6 +175,8 @@ RAG: Red, Amber, Green
 RFP: Radiative Forcing Protocol
 
 RMUs: Removal Units (Developed countries under the Kyoto Protocol maintains its own registry to hold and manage Kyoto Protocol units like Removal Units (RMUs) and Emission Reduction Units (ERUs))
+
+RNG: Renewable Natural Gas
 
 SASB: Sustainability Accounting Standards Board
 
