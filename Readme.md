@@ -180,6 +180,8 @@ RNG: Renewable Natural Gas
 
 SASB: Sustainability Accounting Standards Board
 
+SBM: Strategy and Business Model (Material IROs, ESRS Standard)
+
 SFDR: Sustainable Finance Disclosure Regulation
 
 SMEs: Small and Medium-sizee Enterprises
