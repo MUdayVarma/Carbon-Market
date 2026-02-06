@@ -144,6 +144,8 @@ ISSB: International Sustainability Standards Board
 
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
+MSCI: Morgan Stanley Capital International Institute (Tracking Transition Finance)
+ 
 NCCS: National Climate Change Secretariat
 
 NCQG: New Collective Quantified Goal
