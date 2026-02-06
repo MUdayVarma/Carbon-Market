@@ -2,12 +2,16 @@
 
 # Decarbonization
 
+## Financing Decarbonization
  
   - [20260128 - The Missing Middle of the Energy Transition: Financing Industrial Decarbonization](https://www.esgtoday.com/the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization/)
       - Industrial decarbonization, however, remains a different story. Industry makes up a fifth of Europe’s emissions, yet investment in modernising factories, electrifying heat, recovering waste energy or replacing fossil fuels is far behind where it needs to be.
       - Transforming industrial energy systems is fundamentally more complex than building a wind farm or solar park. It happens inside live production environments, depends on operational behaviour and often requires several technologies to work together. No two sites look alike, which means no two projects look alike either.
    
+## Companies Initiatives
 
+  - [20260204 - IKEA to Deploy Electric Heavy Duty Trucks to Decarbonize Shipping in Italy](https://www.esgtoday.com/ikea-to-deploy-fully-electric-heavy-duty-trucks-to-decarbonize-shipping-in-italy)
+    - IKEA, truck manufacturer Daimler Truck Italia and logistics company LC3 Trasporti announced the launch of a new fully electrified heavy road transport project, aimed at reducing emissions from road transport in Italy and advancing a more sustainable logistics system. 
 
 
 # Carbon Capture
