@@ -34,13 +34,18 @@ AFOLU: Agriculture-Forests-Other Land Use (Funded by CPI)
    - ACoGS: Avoided Conversion of Grasslands and Shrublands (ACoGS)
    - WRC: Wetlands Restoration and Conservation (WRC)
 
+BCR: Biochar Carbon Removal
+
+BioCCS: Biogenic Emissions Capture with Carbon Capture
+
 BRSR: Business Responsibility and Sustainability Reporting
 
 CAR: Climate Action Reserve
 
+CCPs: Core Carbon Principles (Are ten science-based guidelines by the Integrity Council for the Voluntary Carbon Market (ICVCM) defining high-quality carbon credits, ensuring they create real, verifiable climate impact, and building integrity in the voluntary carbon market through robust governance, emissions impact, and sustainable development standards. These principles provide a global benchmark, helping buyers identify credible projects that support the 1.5°C climate goal, covering aspects like additionality, permanence, transparency, and community benefits. )
+
 CARP: Centralized Accounting and Reporting Platform
 
-CCPs: Core Carbon Principles (Are ten science-based guidelines by the Integrity Council for the Voluntary Carbon Market (ICVCM) defining high-quality carbon credits, ensuring they create real, verifiable climate impact, and building integrity in the voluntary carbon market through robust governance, emissions impact, and sustainable development standards. These principles provide a global benchmark, helping buyers identify credible projects that support the 1.5°C climate goal, covering aspects like additionality, permanence, transparency, and community benefits. )
 
 CCS: Carbon Capture and Storage
 
@@ -62,6 +67,8 @@ CORSIA: Carbon Offsetting and Reduction Scheme for International Aviation
 
 CPI: Climate Policy Initiative
 
+CRCF: Carbon Farming and Carbon Removals (EU Regulation for Carbon Removal)
+
 CRFD: Climate-Related Financial Disclosure
 
 CSRD: Corporate Sustainability Reporting Directive
@@ -71,6 +78,8 @@ CSDDD: Corporate Sustainability Due Diligence Directive
 D&T: Disclosure and Transparency
 
 DAC: Direct Air Capture
+
+DACCS: Direct Air Capture with Carbon Storage
 
 DNSH: Do No Significant Harm
 
