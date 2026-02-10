@@ -6,6 +6,8 @@
 
 # Carbon/Green/Sustainable Finance or Investments
 
+- [20260209 - BNP Paribas Significantly Beats its €200 Billion Low Carbon and Transition Finance Goal](https://www.esgtoday.com/bnp-paribas-surpasses-80-of-energy-financing-to-low-carbon-energies/)
+
 - [20260121 - responsAbility Raises $460 Million for Asia-Focused Climate Tech Fund](https://www.esgtoday.com/responsability-raises-460-million-for-asia-focused-climate-tech-fund/)
 
 - [20260119 - Davos 2026 – The Urgent Imperative of Private Climate Finance: Guest Post](https://www.esgtoday.com/davos-2026-the-urgent-imperative-of-private-climate-finance-guest-post/)
