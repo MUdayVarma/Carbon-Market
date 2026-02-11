@@ -21,6 +21,10 @@
 
 ## European Union
 
+  - [20260211 - New EU rules to stop the destruction of unsold clothes and shoes](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
+    - The European Commission today (Feb 9) adopted new measures under the Ecodesign for Sustainable Products Regulation (ESPR) to prevent the destruction of unsold apparel, clothing, accessories and footwear.
+    - The rules will help cut waste, reduce environmental damage and create a level playing field for companies embracing sustainable business models, allowing them to reap the benefits of a more circular economy.
+
   - [20260203 - EU Adopts First-Ever Standard for Carbon Removal Projects](https://www.esgtoday.com/eu-adopts-first-ever-standard-for-carbon-removal-projects/)
     - The European Commission announced today the adoption of its first set of voluntary certification methodologies for permanent carbon removals, aimed at providing clear standards for carbon removal technologies, to enable certification and investment in projects that permanently remove CO2 from the atmosphere.
       
