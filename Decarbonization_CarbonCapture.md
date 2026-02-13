@@ -3,7 +3,9 @@
 # DECARBONIZATION
 
 ## Financing Decarbonization
- 
+
+  - [20260212 - EU States Reinvesting Less than 5% of Carbon Pricing Revenues Back into Industrial Decarbonization](https://www.esgtoday.com/von-der-leyen-urges-eu-states-step-up-reinvestment-of-carbon-pricing-revenues-into-industrial-decarbonization/) - While 100% of revenues generated from the EU’s Emissions Trading System (ETS) are reinvested in industrial innovation at the European level, less than 5% is reinvested in industrial decarbonization at the national level, this will be a focus area of upcoming reform of the ETS planned for later this year.
+    
   - [20260128 - The Missing Middle of the Energy Transition: Financing Industrial Decarbonization](https://www.esgtoday.com/the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization/)
       - Industrial decarbonization, however, remains a different story. Industry makes up a fifth of Europe’s emissions, yet investment in modernising factories, electrifying heat, recovering waste energy or replacing fossil fuels is far behind where it needs to be.
       - Transforming industrial energy systems is fundamentally more complex than building a wind farm or solar park. It happens inside live production environments, depends on operational behaviour and often requires several technologies to work together. No two sites look alike, which means no two projects look alike either.
