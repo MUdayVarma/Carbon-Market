@@ -1,4 +1,8 @@
 
+# BLOGS
+
+- [20260212 - Carbon Markets Could Save the Political Mandate for Net Zero in the EU — But They Have to Work](https://www.esgtoday.com/carbon-markets-could-save-the-political-mandate-for-net-zero-in-the-eu-but-they-have-to-work/) - Guest post by: Sebastien Cross, Co-founder and Chief Innovation Officer, BeZero Carbon
+- 
 # Carbon Credit Market Trends
 
 - [20260129 - The Carbon Credit Market in 2025 is A Turning Point: What Comes Next for 2026 and Beyond?](https://carboncredits.com/the-carbon-credit-market-in-2025-is-a-turning-point-what-comes-next-for-2026-and-beyond/)
