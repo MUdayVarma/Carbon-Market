@@ -55,6 +55,8 @@ CCUS: Carbon Capture, Utilization, and Storage
 
 CDM: Clean Development Mechanism
 
+CDP: Carbon Disclosure Project
+
 CDSB: Climate Disclosure Standards Board
 
 CERs: Certified Emission Reductions (from Clean Development Mechanism i.e. CDM projects.)
