@@ -23,6 +23,8 @@
 
 ACR: American Carbon Registry
 
+ACVA: Accredited Carbon Verification Agency (ICM reference)
+
 AEF: Agreed Electronic Format
 
 AFOLU: Agriculture-Forests-Other Land Use (Funded by CPI)
@@ -60,6 +62,8 @@ CDP: Carbon Disclosure Project
 CDSB: Climate Disclosure Standards Board
 
 CERs: Certified Emission Reductions (from Clean Development Mechanism i.e. CDM projects.)
+
+CERC: Central Electricity Regulatory Commission (ICM reference)
 
 CO2e: Carbon dioxide equivalent 
 
@@ -111,6 +115,8 @@ FDIC: Federal Deposit Insurance Corporation
 
 GCD: Green Claims Directive
 
+GCI: Grid Controller of India (ICM reference)
+
 GHG: Greenhouse Gas emissions 
 
 GRI: Global Reporting Initiative
@@ -156,6 +162,8 @@ ISSB: International Sustainability Standards Board
 ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
 MSCI: Morgan Stanley Capital International Institute (Tracking Transition Finance)
+
+NABCB: National Accreditation Board for Certification Bodies (ICM Reference)
  
 NCCS: National Climate Change Secretariat
 
@@ -168,6 +176,8 @@ NFRD: Non-Financial Reporting Directive
 NGFS: Network for Greening the Financial Systems
 
 NGRBC: National Guidelines on Responsible Business Conduct
+
+NSCICM: National Steering Committee for Indian Carbon Market
 
 NVGs: National Voluntary Guidelines on Social, Environmental and Economic Responsibilities of Business
 
