@@ -99,6 +99,8 @@ EFRAG: Eurpean Financial Reporting Advisory Group
 
 EHS: Environment, Health, and Safety
 
+ERP: ESG rating Providers
+
 ERUs: Emission Reduction Units (Kyoto Protocol units)
 
 ESG: Environment, Social, and Governance
@@ -163,7 +165,8 @@ ITMO: Internationally Transferred Mitigation Outcomes (for MRV systems)
 
 MSCI: Morgan Stanley Capital International Institute (Tracking Transition Finance)
 
-NABCB: National Accreditation Board for Certification Bodies (ICM Reference)
+NABCB: National Accreditation Board for Certification Bodies 
+(a constituent board of the Quality Council of India that acts as the national authority for accrediting Validation and Verification Bodies (VVBs) in India's carbon markets)
  
 NCCS: National Climate Change Secretariat
 
