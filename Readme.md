@@ -48,7 +48,6 @@ CCPs: Core Carbon Principles (Are ten science-based guidelines by the Integrity 
 
 CARP: Centralized Accounting and Reporting Platform
 
-
 CCS: Carbon Capture and Storage
 
 CCU: Carbon Capture and Utilization
@@ -58,6 +57,20 @@ CCUS: Carbon Capture, Utilization, and Storage
 CDM: Clean Development Mechanism
 
 CDP: Carbon Disclosure Project
+
+[
+   - A CDP score is an annual rating (A to D-) assessing a company's environmental transparency and performance on climate change, deforestation, and water security. 
+   - Methodology: It measures progress across four levels: Disclosure (completeness), Awareness (understanding issues), Management (actions taken), and Leadership (best practices).
+   - Scores indicate a company's progress:
+      - A/A- (Leadership): High sustainability, concrete action.
+      - B/B- (Management): Taking action on environmental impacts.
+      - C/C- (Awareness): Identifying environmental impacts.
+      - D/D- (Disclosure): Beginning to report on environmental data.
+      - F: Insufficient information provided (Failure to disclose).
+   - Purpose: It enables investors, cities, and companies to track environmental progress, mitigate risks, and compare sustainability efforts.
+   - Significance: A high score can lead to better access to green financing and improved reputation, as it demonstrates a commitment to reducing greenhouse gas (GHG) emissions.
+
+]
 
 CDSB: Climate Disclosure Standards Board
 
@@ -188,6 +201,9 @@ OECD: Organisation for Economic Co-operation and Development (Guidelines for Mul
 
 OMGE: Overall Mitigation of Global Emissions 
 
+PAT-ESCerts: Perform, Achieve and Trade (PAT) scheme - Energy Savings Certificates 
+(Market-based instruments issued under the Bureau of Energy Efficiency's (BEE), rewarding large energy-intensive industries for exceeding energy reduction targets.)
+
 PCAF: Partnership for Carbon Accounting Financials
 
 PMI: Partnership for Market Implementation 
@@ -198,9 +214,13 @@ PS: Performance Standards
 
 RAG: Red, Amber, Green
 
+RECs: Renewable Energy Certificates
+(promotes renewable energy, representing 1 MWh of green electricity, whereas ESCerts represent 1 Metric Ton of Oil Equivalent (toe) save)
+
 RFP: Radiative Forcing Protocol
 
-RMUs: Removal Units (Developed countries under the Kyoto Protocol maintains its own registry to hold and manage Kyoto Protocol units like Removal Units (RMUs) and Emission Reduction Units (ERUs))
+RMUs: Removal Units 
+(Developed countries under the Kyoto Protocol maintains its own registry to hold and manage Kyoto Protocol units like Removal Units (RMUs) and Emission Reduction Units (ERUs))
 
 RNG: Renewable Natural Gas
 
