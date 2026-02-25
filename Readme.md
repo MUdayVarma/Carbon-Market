@@ -48,6 +48,8 @@ CCPs: Core Carbon Principles (Are ten science-based guidelines by the Integrity 
 
 CARP: Centralized Accounting and Reporting Platform
 
+CCC: Carbon Credit Certificates
+
 CCS: Carbon Capture and Storage
 
 CCU: Carbon Capture and Utilization
@@ -205,6 +207,8 @@ PAT-ESCerts: Perform, Achieve and Trade (PAT) scheme - Energy Savings Certificat
 (Market-based instruments issued under the Bureau of Energy Efficiency's (BEE), rewarding large energy-intensive industries for exceeding energy reduction targets.)
 
 PCAF: Partnership for Carbon Accounting Financials
+
+PCF: Perfluoroccarbon gases
 
 PMI: Partnership for Market Implementation 
 
