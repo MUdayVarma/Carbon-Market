@@ -14,4 +14,16 @@
 - **[What is Carbon Capture and Storage (CCS)?](https://carboncredits.com/what-is-carbon-capture-and-storage-your-ultimate-guide-to-ccs-technology)**
   - Carbon Capture and Storage is a climate technology designed to prevent carbon dioxide (CO₂) from entering the atmosphere. It captures CO₂ emissions from places like power plants, cement factories, and steel mills. This happens before the emissions can add to global warming.
     - A related term is Carbon Capture, Utilization, and Storage (CCUS). It takes things further by using captured CO₂ in products like synthetic fuels, building materials, or plastics.
-    - The key difference between CCS and CCUS lies in the “U” — utilization. In CCS, the captured CO₂ is permanently stored underground, while in CCUS, part or all of that CO₂ is repurposed for industrial use before storage.  
+    - The key difference between CCS and CCUS lies in the “U” — utilization. In CCS, the captured CO₂ is permanently stored underground, while in CCUS, part or all of that CO₂ is repurposed for industrial use before storage.
+   
+- **[Why Carbon Pricing Matters](https://carboncredits.com/carbon-pricing-explained-credits-offsets-taxes/)**
+  - Carbon pricing is a tool used to help the environment by making it expensive to pollute. Every time a company releases greenhouse gases, like carbon dioxide, it causes problems like heat waves, rising sea levels, and crop damage. These issues cost society a lot of money. By putting a price on carbon, governments and organizations encourage businesses to find cleaner ways to operate. If it costs more to pollute, companies will naturally try to emit less to save money.
+
+  - **How the Systems Work**: There are several ways to set a price on carbon, depending on the rules a country or company chooses to follow:
+
+    - Carbon Taxes: The government sets a fixed price that companies must pay for every ton of pollution they create.
+    - Emissions Trading (Cap-and-Trade): The government sets a limit (a "cap") on total pollution. Companies get credits to stay under that limit and can sell extra credits to others.
+    - Carbon Offsets: Companies pay for projects that "cancel out" their pollution, such as planting forests or building technology that captures carbon from the air.
+    - Internal Pricing: Some businesses voluntarily set their own "carbon fee" to help them plan for a greener future.
+
+  - **Creating a Better Future**: For these systems to work, they must be fair and clear. This means the "polluter pays" for the damage they cause, and the money collected should be used to fund more green energy projects. When done correctly, carbon pricing helps the whole world move toward "Net Zero," which is a balance where we aren't adding any more harmful gases to the atmosphere.
