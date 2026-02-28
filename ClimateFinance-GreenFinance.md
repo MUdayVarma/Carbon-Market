@@ -6,6 +6,8 @@
 
 # Carbon/Green/Sustainable Finance or Investments
 
+- [20260226 - BBVA Sustainable Finance Activity Jumps 44% to New Annual Record](https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-44-to-new-annual-record/)
+  
 - [20260209 - BNP Paribas Significantly Beats its €200 Billion Low Carbon and Transition Finance Goal](https://www.esgtoday.com/bnp-paribas-surpasses-80-of-energy-financing-to-low-carbon-energies/)
 
 - [20260121 - responsAbility Raises $460 Million for Asia-Focused Climate Tech Fund](https://www.esgtoday.com/responsability-raises-460-million-for-asia-focused-climate-tech-fund/)
