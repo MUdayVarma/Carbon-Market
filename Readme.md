@@ -50,6 +50,8 @@ CARP: Centralized Accounting and Reporting Platform
 
 CCC: Carbon Credit Certificates
 
+CCP: Core Carbon Principle
+
 CCS: Carbon Capture and Storage
 
 CCU: Carbon Capture and Utilization
@@ -104,6 +106,8 @@ DACCS: Direct Air Capture with Carbon Storage
 
 DNSH: Do No Significant Harm
 
+DPR: Detailed Project report
+
 ECB: European Central Bank
 
 EPA: Equator Principles Association
@@ -155,6 +159,8 @@ ICVCM’s: Integrity Council for the Voluntary Carbon Market
 IFC: International Financial Corporation (for ESG Performance Standards)
 
 IFRS: International Financial Reporting Standards
+ - IFRS S1 (sustainability-related)
+ - IFRS S2 (climate-related) 
 
 IEEFA: Institute for Energy Economics and Financial Analysis
 
