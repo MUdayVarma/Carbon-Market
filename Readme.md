@@ -21,6 +21,9 @@
 
 - **Carbon Sequestration** Companies are organizations—either private, public, or non-profit—that focus on capturing and storing carbon dioxide (CO₂) from the atmosphere or industrial emissions.
 
+ACM: Approved Consolidated Methodologies
+(designations for methodologies in the Verra Registry's Verified Carbon Standard (VCS) program)
+
 ACR: American Carbon Registry
 
 ACVA: Accredited Carbon Verification Agency (ICM reference)
@@ -35,6 +38,9 @@ AFOLU: Agriculture-Forests-Other Land Use (Funded by CPI)
    - REDD: Reduced Emissions from Deforestation and Degradation (REDD)
    - ACoGS: Avoided Conversion of Grasslands and Shrublands (ACoGS)
    - WRC: Wetlands Restoration and Conservation (WRC)
+
+AMS: Approved Small-Scale Methodologies
+(designations for methodologies in the Verra Registry's Verified Carbon Standard (VCS) program)
 
 BCR: Biochar Carbon Removal
 
@@ -251,6 +257,8 @@ ToR: Terms of Reference
 VCM: Voluntary Carbon Market
 
 VCS: Verified Carbon Standard (by Verra)
+
+VMR: Verra Methodology Revision
 
 VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and modular for micro and small to medium-sized enterprises)
 
