@@ -101,6 +101,11 @@ CRCF: Carbon Farming and Carbon Removals (EU Regulation for Carbon Removal)
 CRFD: Climate-Related Financial Disclosure
 
 CSRD: Corporate Sustainability Reporting Directive
+ - ARs: Application Requirements
+ - DRs: Disclosure requirements
+ - GDRs: General Disclosure Requirements
+ - MDRs: Minimum Disclosure Requirements
+ - PATs: Policies, Acts, and Targets
 
 CSDDD: Corporate Sustainability Due Diligence Directive
 
