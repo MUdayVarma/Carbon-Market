@@ -273,6 +273,9 @@ US SEC: US Securities and Exchange Commission Climate-Related Disclosures
 
 WBG: World Bank Group
 
+XBRL: eXtensible Business Reporting Language
+ -  A mandatory digital format used to tag, structure, and standardize ESG data. It makes sustainability disclosures machine-readable, allowing investors and regulators to compare data across EU companies.
+
 =========**//Terminologies**=======================
 
 # =====Important Data Points ===
