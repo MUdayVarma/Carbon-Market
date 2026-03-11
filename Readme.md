@@ -129,6 +129,8 @@ EFRAG: Eurpean Financial Reporting Advisory Group
 
 EHS: Environment, Health, and Safety
 
+EPD: Environment Product Declaration
+
 ERP: ESG rating Providers
 
 ERUs: Emission Reduction Units (Kyoto Protocol units)
@@ -170,8 +172,8 @@ ICVCM’s: Integrity Council for the Voluntary Carbon Market
 IFC: International Financial Corporation (for ESG Performance Standards)
 
 IFRS: International Financial Reporting Standards
- - IFRS S1 (sustainability-related)
- - IFRS S2 (climate-related) 
+ - IFRS S1 (General Requirements for Disclosure of Sustainability-Related Financial Information)
+ - IFRS S2 (builds on IFRS S1 by introducing climate-specific disclosure requirements structured around governance, strategy, risk management, and metrics & targets)
 
 IEEFA: Institute for Energy Economics and Financial Analysis
 
