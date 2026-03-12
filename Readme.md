@@ -115,11 +115,15 @@ DAC: Direct Air Capture
 
 DACCS: Direct Air Capture with Carbon Storage
 
+DJSI: Dow Jones Sustainability Indices
+
 DNSH: Do No Significant Harm
 
 DPR: Detailed Project report
 
 ECB: European Central Bank
+
+ECHA: Europeans Chemicals Agency
 
 EPA: Equator Principles Association
 
