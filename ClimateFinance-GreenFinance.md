@@ -34,6 +34,8 @@
         
 # Companies Involved in Carbon/Green  Financing
 
+- [20260311 - HSBC’s Sustainable Finance Activity Tops $100 Billion in 2025](https://www.esgtoday.com/hsbc-sustainable-finance-activity-tops-100-billion-in-2025/)
+  
 - responsAbility Investments - unit of M&G’s impact investing (actively contributing to CO2 reduction in Asia through targeted investments in low-emission technologies) - (works along with Germany’s development bank KfW and the Dutch development bank FMO, Netherlands-based Anthos Fund & Asset Management and U.S.-based Calvert Impact Capital)
   
 - Partners Group - Switzerland-based global private markets investor (targets to achieve net zero across its corporate activities, and to reach net zero by 2050 in its investment portfolio)
