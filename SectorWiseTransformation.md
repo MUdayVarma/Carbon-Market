@@ -2,6 +2,8 @@
 
 # Energy Transition
 
+- [202603 - GHG Protocol Public Consultations - Scope 2 and Electricity-Sector Consequential Methods Public Consultation Resources](https://ghgprotocol.org/ghg-protocol-public-consultations?apcid=0068f876379cdf04814baf01) 
+ 
 - [20260223 - Amazon, Meta, Google, Microsoft Account for Half of Global Clean Energy Purchase Deals in 2025: Report](https://github.com/MUdayVarma/Carbon-Market/edit/main/Readme.md)
   
 # Buildings & Constructions
