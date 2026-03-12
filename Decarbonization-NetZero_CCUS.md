@@ -4,6 +4,10 @@
 
 ## Companies Initiatives 
 
+  - [20260305 -  RIFT Raises $132 Million to Decarbonize Industrial Heat with “Iron Fuel”](https://www.esgtoday.com/rift-raises-132-million-to-decarbonize-industrial-heat-with-iron-fuel/)
+
+  - [20260305 - L’Oréal Signs Deal to Turn Captured CO2 into Packaging Materials](https://www.esgtoday.com/loreal-signs-deal-to-turn-captured-co2-into-packaging-materials/)
+    
   - [20260227 - LEGO Group Invests in Nature and Technology-Based Carbon Removal Projects](https://www.esgtoday.com/lego-group-invests-in-nature-and-technology-based-carbon-removal-projects/)
     
   - [20260225 - Deutsche Telekom Achieves Net Zero Across Operations](https://www.esgtoday.com/deutsche-telekom-achieves-net-zero-across-operations/)
