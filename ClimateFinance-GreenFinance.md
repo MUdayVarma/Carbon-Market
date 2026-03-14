@@ -20,6 +20,8 @@
 
 # Ecosystem Support Systems (National/International Regulatories i.e. IFC, EU) || Financing Decarbonization
 
+- [20260312 - EIB to Provide More than €75 Billion Clean Energy Financing Over Next 3 Years](https://www.esgtoday.com/eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years/)
+  
 - [20260127 - Mobilizing Private Capital for Development - PODCAST ](https://www.ifc.org/en/podcasts/ifc-trendlines/mobilizing-private-capital-for-development?cid=IFC_LI_IFC_EN_EXT)
     - Attracting private investment into developing countries is crucial for their development. In this first episode of IFC Trendlines, IFC Vice President and Chief Financial Officer John Gandolfo joins host Daisy Serem to discuss what this means for investors, how IFC, a member of the World Bank Group -  helps manage risk in emerging markets, and the financial instruments being used to mobilize more private capital. The episode also explores where investment opportunities are emerging and which sectors are driving jobs and growth across developing economies.
 
