@@ -20,6 +20,8 @@
 
 # Ecosystem Support Systems (National/International Regulatories i.e. IFC, EU) || Financing Decarbonization
 
+- [20260312 - UK Raises $8.4 Billion in First Green Bond Offering to Include Nuclear Energy as Eligible Use of Proceeds](https://www.esgtoday.com/uk-raises-8-4-billion-in-first-green-bond-offering-to-include-nuclear-energy-as-eligible-use-of-proceeds/)
+  
 - [20260312 - EIB to Provide More than €75 Billion Clean Energy Financing Over Next 3 Years](https://www.esgtoday.com/eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years/)
   
 - [20260127 - Mobilizing Private Capital for Development - PODCAST ](https://www.ifc.org/en/podcasts/ifc-trendlines/mobilizing-private-capital-for-development?cid=IFC_LI_IFC_EN_EXT)
