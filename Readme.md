@@ -125,6 +125,8 @@ ECB: European Central Bank
 
 ECHA: Europeans Chemicals Agency
 
+EDF: Environmental Defense Fund 
+
 EPA: Equator Principles Association
 
 EPR: Extended Producer Responsibility
@@ -260,6 +262,8 @@ SFDR: Sustainable Finance Disclosure Regulation
 SMEs: Small and Medium-sizee Enterprises
 
 SOP: Shares of Proceed (e.g. the management of carbon credits earmarked for shares of proceeds (SOP))
+
+SSAF: Sustainability Standards Advisory Forum
 
 TCFD: Task Force on Climate-related Financial Disclosure
 
