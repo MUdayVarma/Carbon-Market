@@ -10,6 +10,8 @@
   
 # Buildings & Constructions
 
+- [20260317 - Reliance Signs $3 Billion Green Ammonia Supply Deal with Samsung C&T (South Korean Construction & Engineering company) ](https://www.esgtoday.com/reliance-signs-3-billion-green-ammonia-supply-deal-with-samsung-ct/)
+
 - [20260313 - Bureau Veritas Acquires Two Building and Infrastructure Sustainability Consultancies](https://www.esgtoday.com/bureau-veritas-acquires-two-building-and-infrastructure-sustainability-consultancies/)
   
 - [20260121 - Buildings Sector Becomes the New Battleground in CANADA](https://carboncredits.com/canadas-climate-momentum-slows-in-2026-despite-7-emissions-drop-rbc-report-finds/)
