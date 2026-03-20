@@ -1,6 +1,6 @@
 
 # Carbon/Green/Sustainable Finance or Investments
-
+  
 - [20260225 - Net Zero Asset Managers(NZAM) initiative relaunches with more than 250 investors](https://www.esgtoday.com/net-zero-asset-managers-initiative-relaunches/)
   
 - [20260226 - BBVA Sustainable Finance Activity Jumps 44% to New Annual Record](https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-44-to-new-annual-record/)
@@ -20,6 +20,8 @@
 
 # Ecosystem Support Systems (National/International Regulatories i.e. IFC, EU) || Financing Decarbonization
 
+- [20260317 - UK Unveils $3.3 Billion Fusion Strategy](https://www.esgtoday.com/uk-unveils-3-3-billion-fusion-strategy/)
+  
 - [20260312 - UK Raises $8.4 Billion in First Green Bond Offering to Include Nuclear Energy as Eligible Use of Proceeds](https://www.esgtoday.com/uk-raises-8-4-billion-in-first-green-bond-offering-to-include-nuclear-energy-as-eligible-use-of-proceeds/)
   
 - [20260312 - EIB to Provide More than €75 Billion Clean Energy Financing Over Next 3 Years](https://www.esgtoday.com/eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years/)
