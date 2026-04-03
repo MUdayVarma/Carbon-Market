@@ -3,6 +3,8 @@
 # Biochar 
 (Biochar, or biological charcoal, is produced by heating biomass such as forest residue, wood, or crop waste in the absence of oxygen, creating a stable form of carbon that, when buried in soil, enables centuries-long carbon sequestration while also improving soil fertility)
 
+  - [20260318 - Google Inks Waste-to-Carbon Deal to Remove 200K Tons of CO₂ With AI and Biochar](https://carboncredits.com/google-inks-waste-to-carbon-deal-to-remove-200k-tons-of-co%E2%82%82-with-ai-and-biochar)
+    
   - [20260309 - Boeing Signs 40,000 Tonne Biochar Carbon Removal Agreement](https://www.esgtoday.com/boeing-signs-40000-tonne-biochar-carbon-removal-agreement/)
 
 # RNG (Renewable Natural Gas)
