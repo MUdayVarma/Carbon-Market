@@ -21,6 +21,9 @@
 
 
 # ARR 
+
+  - [20260331 - Google, Meta, McKinsey Ink U.S. Reforestation-Based Carbon Removal Deals](https://www.esgtoday.com/google-meta-mckinsey-ink-u-s-reforestation-based-carbon-removal-deals/)
+    
 #### [Afforestation(new forests), Reforestation(restoring old forests), and Revegetation(covering degraded land)]
 
   - [20250219 - Planting Trees for Carbon Credits: Everything You Need to Know](https://carboncredits.com/planting-trees-for-carbon-credits-everything-you-need-to-know/)
