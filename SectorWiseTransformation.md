@@ -21,3 +21,13 @@
 # Transportation / Mobility
 
 - [20260224 - Toyota to Build Circular Factory in Poland to Recycle End-of Life Vehicles](https://www.esgtoday.com/toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles/) 
+
+
+# Data Centers
+
+- [20260319 - Nuclear + AI: NVIDIA and AtkinsRéalis Power the Future of Data Centers](https://carboncredits.com/nuclear-ai-nvidia-and-atkinsrealis-power-the-future-of-data-centers/)
+
+# Apparel / Textile
+
+- [20260320 - Chanel Reveals First Climate Transition Plan: How the Luxury Giant Aims to Hit Net-Zero](https://carboncredits.com/chanel-reveals-first-climate-transition-plan-how-the-luxury-giant-aims-to-hit-net-zero/)
+- 
