@@ -9,3 +9,7 @@
 
 - [20260223 - Verra’s First DMRV Solar Project Pushes Carbon Credits into the Digital Era](https://carboncredits.com/verras-first-dmrv-solar-project-pushes-carbon-credits-into-the-digital-era/) - [Verra Approves First Credits under DMRV Pilot for High-Frequency Issuances](https://verra.org/verra-approves-first-credits-under-dmrv-pilot-for-high-frequency-issuances/)
 - 
+
+# Regulatories
+
+- [20260415 - ISO Releases New Version of Flagship Environmental Management Standard](https://www.esgtoday.com/iso-releases-new-version-of-flagship-environmental-management-standard/) 
