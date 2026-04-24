@@ -30,4 +30,6 @@
 # Apparel / Textile
 
 - [20260320 - Chanel Reveals First Climate Transition Plan: How the Luxury Giant Aims to Hit Net-Zero](https://carboncredits.com/chanel-reveals-first-climate-transition-plan-how-the-luxury-giant-aims-to-hit-net-zero/)
-- 
+
+# C&I
+- [20260407 - Amundi Invests in C&I-focused Clean Energy Solutions Platform Youdera](https://www.esgtoday.com/amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera/)
