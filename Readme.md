@@ -226,6 +226,8 @@ NVGs: National Voluntary Guidelines on Social, Environmental and Economic Respon
 
 OECD: Organisation for Economic Co-operation and Development (Guidelines for Multinational Enterprises)
 
+OER: Ongoing Emissions Responsibility (a framework for how organisations can take responsibility for their emissions (Scopes 1, 2 and 3) that remain unabated each year. While deep and rapid decarbonisation remains the priority, a credible OER strategy enables organisations to take accountability for the continued impact of their operations while transitioning to an operational model in line with net zero by 2050)
+
 OMGE: Overall Mitigation of Global Emissions 
 
 PAT-ESCerts: Perform, Achieve and Trade (PAT) scheme - Energy Savings Certificates 
