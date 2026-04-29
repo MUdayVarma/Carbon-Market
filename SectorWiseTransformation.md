@@ -20,6 +20,8 @@
 
 # Transportation / Mobility
 
+- [20260426 - Isuzu & Toyota Partner on Hydrogen Truck for Decarbonisation](https://sustainabilitymag.com/news/isuzu-toyota-partner-on-hydrogen-truck-for-decarbonisation)
+  
 - [20260224 - Toyota to Build Circular Factory in Poland to Recycle End-of Life Vehicles](https://www.esgtoday.com/toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles/) 
 
 
