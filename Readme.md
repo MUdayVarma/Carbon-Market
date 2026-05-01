@@ -135,6 +135,8 @@ EFRAG: Eurpean Financial Reporting Advisory Group
 
 EHS: Environment, Health, and Safety
 
+ENVIS: Environmental Information System
+
 EPD: Environment Product Declaration
 
 ERP: ESG rating Providers
@@ -280,6 +282,8 @@ VMR: Verra Methodology Revision
 VSME: Voluntary Sustainability Standards for SMEs (are voluntary, simpler, and modular for micro and small to medium-sized enterprises)
 
 UNDP: UN Development Programme
+
+UNIDO: United Nations Industrial Development Organization
 
 US SEC: US Securities and Exchange Commission Climate-Related Disclosures
 
