@@ -4,6 +4,8 @@
 
 ## Companies Initiatives 
 
+  - [20260428 - PwC's Third Annual State of Decarbonization Report](https://www.pwc.com/us/en/services/esg/library/decarbonization-strategic-plan.html)
+    
   - [20260305 -  RIFT Raises $132 Million to Decarbonize Industrial Heat with “Iron Fuel”](https://www.esgtoday.com/rift-raises-132-million-to-decarbonize-industrial-heat-with-iron-fuel/)
 
   - [20260305 - L’Oréal Signs Deal to Turn Captured CO2 into Packaging Materials](https://www.esgtoday.com/loreal-signs-deal-to-turn-captured-co2-into-packaging-materials/)
