@@ -1,6 +1,8 @@
 
 # Carbon/Green/Sustainable Finance or Investments
 
+- [20260505 - Two Thirds of Investors Plan to Increase Allocation to Sustainable Investments: Morgan Stanley Survey](https://www.esgtoday.com/investor-interest-in-sustainable-investing-increases-over-last-year-with-performance-as-top-driver-morgan-stanley-survey/)
+  
 - [20260409 - Beyond Mitigation: What can Ongoing Emissions Responsibility fund?](https://www.esgtoday.com/beyond-mitigation-what-can-ongoing-emissions-responsibility-fund/)
   
 - [20260225 - Net Zero Asset Managers(NZAM) initiative relaunches with more than 250 investors](https://www.esgtoday.com/net-zero-asset-managers-initiative-relaunches/)
