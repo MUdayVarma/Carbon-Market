@@ -5,6 +5,8 @@
 - 
 # Carbon Credit Market Trends
 
+- [20260511 - China, EU, Brazil Launch International Carbon Pricing Coalition](https://www.esgtoday.com/china-eu-brazil-launch-international-carbon-pricing-coalition/)
+  
 - [20260331 - The Top Carbon Credit Exchanges Driving Climate Markets in 2026 and Beyond](https://carboncredits.com/the-top-carbon-credit-exchanges-driving-climate-markets-in-2026-and-beyond/)
   
 - [20260321 - India Launches Centralized Carbon Market Trading Platform](https://www.esgtoday.com/india-to-launch-carbon-market-trading-within-four-months/)
