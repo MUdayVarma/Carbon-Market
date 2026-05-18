@@ -44,6 +44,8 @@
         
 # Companies Involved in Carbon/Green  Financing
 
+- [20260513 - Apple Backs Clean Energy, Circular Economy Projects in India](https://www.esgtoday.com/apple-backs-clean-energy-circular-economy-projects-in-india/)
+  
 - [20260311 - HSBC’s Sustainable Finance Activity Tops $100 Billion in 2025](https://www.esgtoday.com/hsbc-sustainable-finance-activity-tops-100-billion-in-2025/)
   
 - responsAbility Investments - unit of M&G’s impact investing (actively contributing to CO2 reduction in Asia through targeted investments in low-emission technologies) - (works along with Germany’s development bank KfW and the Dutch development bank FMO, Netherlands-based Anthos Fund & Asset Management and U.S.-based Calvert Impact Capital)
