@@ -1,6 +1,8 @@
 
 # Energy
 
+- [20260514 - Ford Repurposes EV Battery Capacity to Launch New Energy Storage Business](https://www.esgtoday.com/ford-repurposes-ev-battery-capacity-to-launch-new-energy-storage-business/)
+  
 - [20260421 - GM becomes first U.S. automaker to reach 100% renewable energy goal](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0421-GM-first-renewable-energy-goal.html)
   
 - [20260312 - Arevon Secures $920 Million for New California Energy Storage Project](https://www.esgtoday.com/arevon-secures-920-million-for-new-california-energy-storage-project/) 
