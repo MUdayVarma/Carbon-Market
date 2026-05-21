@@ -30,7 +30,7 @@
   
 - [20260312 - EIB to Provide More than €75 Billion Clean Energy Financing Over Next 3 Years](https://www.esgtoday.com/eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years/)
   
-- [20260127 - Mobilizing Private Capital for Development - PODCAST ](https://www.ifc.org/en/podcasts/ifc-trendlines/mobilizing-private-capital-for-development?cid=IFC_LI_IFC_EN_EXT)
+- [20260127 - Mobilizing Private Capital for Development - PODCAST ](https://www.ifc.org/en/podcasts/ifc-trendlines/mobilizing-private-capital-for-development)
     - Attracting private investment into developing countries is crucial for their development. In this first episode of IFC Trendlines, IFC Vice President and Chief Financial Officer John Gandolfo joins host Daisy Serem to discuss what this means for investors, how IFC, a member of the World Bank Group -  helps manage risk in emerging markets, and the financial instruments being used to mobilize more private capital. The episode also explores where investment opportunities are emerging and which sectors are driving jobs and growth across developing economies.
 
 - [20260212 - EU States Reinvesting Less than 5% of Carbon Pricing Revenues Back into Industrial Decarbonization](https://www.esgtoday.com/von-der-leyen-urges-eu-states-step-up-reinvestment-of-carbon-pricing-revenues-into-industrial-decarbonization/) - While 100% of revenues generated from the EU’s Emissions Trading System (ETS) are reinvested in industrial innovation at the European level, less than 5% is reinvested in industrial decarbonization at the national level, this will be a focus area of upcoming reform of the ETS planned for later this year.
@@ -44,6 +44,8 @@
         
 # Companies Involved in Carbon/Green  Financing
 
+- [20260527 - HSBC Launches $4 Billion Facility to Help China Clean Tech Companies Scale Internationally](https://www.esgtoday.com/hsbc-launches-4-billion-facility-to-help-china-clean-tech-companies-scale-internationally/)
+  
 - [20260513 - Apple Backs Clean Energy, Circular Economy Projects in India](https://www.esgtoday.com/apple-backs-clean-energy-circular-economy-projects-in-india/)
   
 - [20260311 - HSBC’s Sustainable Finance Activity Tops $100 Billion in 2025](https://www.esgtoday.com/hsbc-sustainable-finance-activity-tops-100-billion-in-2025/)
