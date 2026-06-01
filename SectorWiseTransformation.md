@@ -29,6 +29,8 @@
 
 # Data Centers
 
+- [20260525 - Enbridge to Develop $1.2 Billion Solar & Storage Project to Power Meta Data Centers](https://www.esgtoday.com/enbridge-to-develop-1-2-billion-solar-storage-project-to-power-meta-data-centers/)
+  
 - [20260319 - Nuclear + AI: NVIDIA and AtkinsRéalis Power the Future of Data Centers](https://carboncredits.com/nuclear-ai-nvidia-and-atkinsrealis-power-the-future-of-data-centers/)
 
 # Apparel / Textile
