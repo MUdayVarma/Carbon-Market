@@ -109,6 +109,8 @@ CSRD: Corporate Sustainability Reporting Directive
 
 CSDDD: Corporate Sustainability Due Diligence Directive
 
+CTEC: Continuously Tracked Energy Consumption 
+
 D&T: Disclosure and Transparency
 
 DAC: Direct Air Capture
