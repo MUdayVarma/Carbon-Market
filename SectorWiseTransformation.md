@@ -39,3 +39,11 @@
 
 # C&I
 - [20260407 - Amundi Invests in C&I-focused Clean Energy Solutions Platform Youdera](https://www.esgtoday.com/amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera/)
+
+# Others
+- [202606 - Gigaton Raises $26 Million to Slash Emissions Across Cement, Steel, Glass, Chemicals Sectors](https://www.esgtoday.com/gigaton-raises-26-million-to-slash-emissions-across-cement-steel-glass-chemicals-sectors)
+
+- 
+
+
+
