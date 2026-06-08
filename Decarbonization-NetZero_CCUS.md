@@ -4,6 +4,8 @@
 
 ## Companies Initiatives 
 
+  - [20260604 - ISO Launches Net Zero Transition Planning Standard for Financial Institutions](https://www.esgtoday.com/iso-launches-net-zero-transition-planning-standard-for-financial-institutions/)
+
   - [20260422 - Achmea publishes ambitious Climate and Nature Transition Plan 2026](https://news.achmea.nl/achmea-publishes-ambitious-climate-and-nature-transition-plan-2026/)
     
   - [20260428 - PwC's Third Annual State of Decarbonization Report](https://www.pwc.com/us/en/services/esg/library/decarbonization-strategic-plan.html)
