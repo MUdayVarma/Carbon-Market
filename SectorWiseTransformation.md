@@ -29,6 +29,8 @@
 
 # Data Centers
 
+- [20260612 - Amazon Achieves 75% of Goal to be Water Positive in Data Centers by 2030](https://www.esgtoday.com/amazon-achieves-75-of-goal-to-be-water-positive-in-data-centers-by-2030/)
+  
 - [20260611 - Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers](https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/)
   
 - [20260525 - Enbridge to Develop $1.2 Billion Solar & Storage Project to Power Meta Data Centers](https://www.esgtoday.com/enbridge-to-develop-1-2-billion-solar-storage-project-to-power-meta-data-centers/)
