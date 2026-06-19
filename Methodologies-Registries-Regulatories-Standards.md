@@ -21,6 +21,9 @@
 
 # Standards
 
+### ISO
+  - [20260617 - ISO Releases Draft Net Zero Standard (ISO 14060), its first global standard designed to support companies in developing credible and comprehensive net zero transition plans.](https://www.esgtoday.com/iso-releases-draft-net-zero-standard/)
+    
 ### GHG Protocol
 
   - [20260427 - Apple, Amazon, Schneider Electric Warn GHG Protocol that Tougher Scope 2 Reporting Rules will Slow Corporate Energy Transition](https://www.esgtoday.com/apple-amazon-schneider-electric-warn-ghg-protocol-that-proposed-scope-2-accounting-changes-will-slow-corporate-energy-transition/)
