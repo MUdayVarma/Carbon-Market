@@ -44,6 +44,8 @@
         
 # Companies Involved in Carbon/Green  Financing
 
+- [20260618 - BoE Integrates Net Zero Transition Risk into Collateral Framework](https://www.esgtoday.com/boe-integrates-net-zero-transition-risk-into-collateral-framework/)
+
 - [20260527 - HSBC Launches $4 Billion Facility to Help China Clean Tech Companies Scale Internationally](https://www.esgtoday.com/hsbc-launches-4-billion-facility-to-help-china-clean-tech-companies-scale-internationally/)
   
 - [20260513 - Apple Backs Clean Energy, Circular Economy Projects in India](https://www.esgtoday.com/apple-backs-clean-energy-circular-economy-projects-in-india/)
