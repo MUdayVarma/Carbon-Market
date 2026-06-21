@@ -9,6 +9,16 @@
   
 - [20260224 - Nike Sources 100% Clean Electricity for Japan Operations](https://www.esgtoday.com/nike-sources-100-clean-electricity-for-japan-operations/)
 
+## Energy (Electricity) Transition
+
+- [20260427 - How Much Clean Energy Have Countries Added Since 2015?](https://www.visualcapitalist.com/how-much-clean-energy-have-countries-added-since-2015/)
+  
+- [20260313 - Octopus Energy Generation Signs $60 Million Carbon Removal Deal with Nature-Based Solutions Provider Cultivo](https://www.esgtoday.com/octopus-energy-generation-signs-60-million-carbon-removal-deal-with-nature-based-solutions-provider-cultivo/)
+  
+- [202603 - GHG Protocol Public Consultations - Scope 2 and Electricity-Sector Consequential Methods Public Consultation Resources](https://ghgprotocol.org/ghg-protocol-public-consultations?apcid=0068f876379cdf04814baf01) 
+ 
+- [20260223 - Amazon, Meta, Google, Microsoft Account for Half of Global Clean Energy Purchase Deals in 2025: Report](https://github.com/MUdayVarma/Carbon-Market/edit/main/Readme.md)  
+
 ## Hydrogen
 
 - [20260331 - Toyota Plans to Join Volvo, Daimler Hydrogen Fuel Cell JV](https://www.esgtoday.com/toyota-plans-to-join-volvo-daimler-in-hydrogen-fuel-cell-jv/)
