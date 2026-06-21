@@ -1,14 +1,3 @@
-
-
-# Energy Transition
-
-- [20260427 - How Much Clean Energy Have Countries Added Since 2015?](https://www.visualcapitalist.com/how-much-clean-energy-have-countries-added-since-2015/)
-  
-- [20260313 - Octopus Energy Generation Signs $60 Million Carbon Removal Deal with Nature-Based Solutions Provider Cultivo](https://www.esgtoday.com/octopus-energy-generation-signs-60-million-carbon-removal-deal-with-nature-based-solutions-provider-cultivo/)
-  
-- [202603 - GHG Protocol Public Consultations - Scope 2 and Electricity-Sector Consequential Methods Public Consultation Resources](https://ghgprotocol.org/ghg-protocol-public-consultations?apcid=0068f876379cdf04814baf01) 
- 
-- [20260223 - Amazon, Meta, Google, Microsoft Account for Half of Global Clean Energy Purchase Deals in 2025: Report](https://github.com/MUdayVarma/Carbon-Market/edit/main/Readme.md)
   
 # Buildings & Constructions
 
@@ -37,6 +26,12 @@
   
 - [20260319 - Nuclear + AI: NVIDIA and AtkinsRéalis Power the Future of Data Centers](https://carboncredits.com/nuclear-ai-nvidia-and-atkinsrealis-power-the-future-of-data-centers/)
 
+# FMGC
+
+- [20260617 - Mars Reaches 100% Renewable Electricity in U.S. Operations](https://www.esgtoday.com/mars-reaches-100-renewable-electricity-in-u-s-operations/)
+
+
+  
 # Apparel / Textile
 
 - [20260320 - Chanel Reveals First Climate Transition Plan: How the Luxury Giant Aims to Hit Net-Zero](https://carboncredits.com/chanel-reveals-first-climate-transition-plan-how-the-luxury-giant-aims-to-hit-net-zero/)
