@@ -1,4 +1,7 @@
 
+# Companies
+
+- [20260625 - Climeworks Signs 450,000 Tons of Carbon Removal Agreements](day.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/)
 
 # Biochar 
 (Biochar, or biological charcoal, is produced by heating biomass such as forest residue, wood, or crop waste in the absence of oxygen, creating a stable form of carbon that, when buried in soil, enables centuries-long carbon sequestration while also improving soil fertility)
