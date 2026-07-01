@@ -1,4 +1,9 @@
 
+# Carbon Market Journal
+
+- [20260629 - Carbon Market Journal #72 | AI Powers the Next Energy Revolution](https://www.linkedin.com/pulse/carbon-market-journal-71-ai-powers-next-energy-revolution-fzele/)
+
+
 # BLOGS
 
 - [20260212 - Carbon Markets Could Save the Political Mandate for Net Zero in the EU — But They Have to Work](https://www.esgtoday.com/carbon-markets-could-save-the-political-mandate-for-net-zero-in-the-eu-but-they-have-to-work/) - Guest post by: Sebastien Cross, Co-founder and Chief Innovation Officer, BeZero Carbon
