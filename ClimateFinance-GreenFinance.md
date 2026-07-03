@@ -1,6 +1,8 @@
 
 # Carbon/Green/Sustainable Finance or Investments
 
+- [202600702 - Crédit Agricole Launches Asia Pacific ESG-Linked Trade Finance Solution](https://www.esgtoday.com/credit-agricole-launches-asia-pacific-esg-trade-finance-solution/)
+  
 - [20260505 - Two Thirds of Investors Plan to Increase Allocation to Sustainable Investments: Morgan Stanley Survey](https://www.esgtoday.com/investor-interest-in-sustainable-investing-increases-over-last-year-with-performance-as-top-driver-morgan-stanley-survey/)
   
 - [20260409 - Beyond Mitigation: What can Ongoing Emissions Responsibility fund?](https://www.esgtoday.com/beyond-mitigation-what-can-ongoing-emissions-responsibility-fund/)
