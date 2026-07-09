@@ -1,6 +1,8 @@
 
 # Companies
 
+- [20260708 - Google, McKinsey, Tencent Sign Large-Scale Nature-Based Carbon Removal Deals](https://www.esgtoday.com/google-mckinsey-tencent-sign-large-scale-nature-based-carbon-removal-deals/)
+  
 - [20260625 - Climeworks Signs 450,000 Tons of Carbon Removal Agreements](day.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/)
 
 # Biochar 
