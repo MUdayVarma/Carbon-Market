@@ -1,7 +1,9 @@
 
 # Methodologies
 
-  - [20260210 - ICVCM Adds New CCP-Approved Carbon Credit Methods for Isometric, Gold Standard and ACR](https://carboncredits.com/icvcm-adds-new-ccp-approved-carbon-credit-methods-for-isometric-gold-standard-and-acr) The ICVCM has expanded its "high-integrity" labels to include new carbon credit methods covering bio-oil sequestration and forest management
+ - [20260709 - Canada Proposes New Oil and Gas Production Decarbonization Category for Sustainable Finance Taxonomy](https://www.esgtoday.com/canada-proposes-new-oil-and-gas-production-decarbonization-category-for-sustainable-finance-taxonomy/)
+   
+ - [20260210 - ICVCM Adds New CCP-Approved Carbon Credit Methods for Isometric, Gold Standard and ACR](https://carboncredits.com/icvcm-adds-new-ccp-approved-carbon-credit-methods-for-isometric-gold-standard-and-acr) The ICVCM has expanded its "high-integrity" labels to include new carbon credit methods covering bio-oil sequestration and forest management
 
   - 
 
