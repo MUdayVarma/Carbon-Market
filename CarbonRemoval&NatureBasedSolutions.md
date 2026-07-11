@@ -44,6 +44,8 @@
   
 # NBSforIndia Connect
 
+  - [20260709 - SPECIAL FEATURE | WWF-India explores NbS for integrated resilient ecoscapes](https://www.linkedin.com/pulse/special-feature-wwf-india-explores-nbs-integrated-resilient-wkdof/)
+    
   - [20260109 - SPECIAL FEATURE | Designing Cooler Cities Together](https://www.linkedin.com/pulse/special-feature-designing-cooler-cities-together-wri-india-kwypf/)
 
   - 
