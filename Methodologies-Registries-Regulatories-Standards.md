@@ -23,6 +23,10 @@
 
 # Standards
 
+### SBTi 
+
+  - [20260709 - What Manufacturers and Suppliers Need to Know About SBTi’s V2.0 Updates](https://www.esgtoday.com/what-manufacturers-and-suppliers-need-to-know-about-sbtis-v2-0-updates/)
+
 ### ISO
   - [20260617 - ISO Releases Draft Net Zero Standard (ISO 14060), its first global standard designed to support companies in developing credible and comprehensive net zero transition plans.](https://www.esgtoday.com/iso-releases-draft-net-zero-standard/)
     
