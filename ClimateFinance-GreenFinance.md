@@ -1,6 +1,8 @@
 
 # Carbon/Green/Sustainable Finance or Investments
 
+- [20260716 - Green Climate Fund Unlocks Additional $4 Billion for Climate Investments](https://www.esgtoday.com/green-climate-fund-unlocks-additional-4-billion-for-climate-investments/)
+  
 - [202600702 - Crédit Agricole Launches Asia Pacific ESG-Linked Trade Finance Solution](https://www.esgtoday.com/credit-agricole-launches-asia-pacific-esg-trade-finance-solution/)
   
 - [20260505 - Two Thirds of Investors Plan to Increase Allocation to Sustainable Investments: Morgan Stanley Survey](https://www.esgtoday.com/investor-interest-in-sustainable-investing-increases-over-last-year-with-performance-as-top-driver-morgan-stanley-survey/)
