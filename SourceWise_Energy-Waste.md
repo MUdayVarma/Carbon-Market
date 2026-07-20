@@ -1,6 +1,8 @@
 
 # Energy
 
+- [20260715 - Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables](https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/)
+  
 - [20260514 - Ford Repurposes EV Battery Capacity to Launch New Energy Storage Business](https://www.esgtoday.com/ford-repurposes-ev-battery-capacity-to-launch-new-energy-storage-business/)
   
 - [20260421 - GM becomes first U.S. automaker to reach 100% renewable energy goal](https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0421-GM-first-renewable-energy-goal.html)
