@@ -33,6 +33,8 @@
 
 ## European Union
 
+  - [20260721 - Climate Transition Plan Disclosure Jumps to 69% of CSRD Companies: EFRAG](https://www.esgtoday.com/climate-transition-plan-disclosure-jumps-to-69-of-csrd-companies-efrag/)
+    
   - [20260211 - New EU rules to stop the destruction of unsold clothes and shoes](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en)
     - The European Commission today (Feb 9) adopted new measures under the Ecodesign for Sustainable Products Regulation (ESPR) to prevent the destruction of unsold apparel, clothing, accessories and footwear.
     - The rules will help cut waste, reduce environmental damage and create a level playing field for companies embracing sustainable business models, allowing them to reap the benefits of a more circular economy.
