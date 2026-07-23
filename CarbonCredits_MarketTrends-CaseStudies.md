@@ -6,6 +6,8 @@
 
 # BLOGS
 
+- [20260722 - From Carbon to Constraints: Why Sustainability Is Becoming a Growth Strategy](https://www.esgtoday.com/from-carbon-to-constraints-why-sustainability-is-becoming-a-growth-strategy/)
+  
 - [20260715 - The Rise of the Climate Consumer. Guest post by: Tim Newell, Founder and CEO, GreenFi.  Forget Washington. The Most Powerful Force in Climate Is the American Consumer.](https://www.esgtoday.com/the-rise-of-the-climate-consumer/)
   
 - [20260212 - Carbon Markets Could Save the Political Mandate for Net Zero in the EU — But They Have to Work](https://www.esgtoday.com/carbon-markets-could-save-the-political-mandate-for-net-zero-in-the-eu-but-they-have-to-work/) - Guest post by: Sebastien Cross, Co-founder and Chief Innovation Officer, BeZero Carbon
