@@ -18,6 +18,8 @@
 
 # Data Centers
 
+- [20260729 - NTT Data, Engie Launch Clean Energy Partnership to Decarbonize Global Data Center Footprint](https://www.esgtoday.com/ntt-data-engie-launch-clean-energy-partnership-to-decarbonize-global-data-center-footprint/)
+  
 - [20260629 - AI’s Environmental Cost: Data Centers Now Rival Entire Nations in Energy, Water, and Land Use](https://carboncredits.com/ai-hidden-environmental-cost-data-centers-now-rival-entire-nations-in-energy-water-and-land-use/)
 
 - [20260612 - Amazon Achieves 75% of Goal to be Water Positive in Data Centers by 2030](https://www.esgtoday.com/amazon-achieves-75-of-goal-to-be-water-positive-in-data-centers-by-2030/)
