@@ -1,6 +1,8 @@
 
 # Carbon Market Journal
 
+- [20260808 - Carbon Market Journal #78 | China’s Climate Shift and the Race to Scale Carbon Removal](https://www.linkedin.com/pulse/carbon-market-journal-78-chinas-climate-shift-race-scale-nqehe/)
+  
 - [20260629 - Carbon Market Journal #72 | AI Powers the Next Energy Revolution](https://www.linkedin.com/pulse/carbon-market-journal-71-ai-powers-next-energy-revolution-fzele/)
 
 
