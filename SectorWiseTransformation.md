@@ -1,3 +1,7 @@
+
+# Banking and Financials
+
+- [20260812 - PWC, PCAF Partner to Help Banks, Investors Measure & Report Financed Emissions](https://www.esgtoday.com/pwc-pcaf-partner-to-help-banks-investors-measure-report-financed-emissions/)
   
 # Buildings & Constructions
 
